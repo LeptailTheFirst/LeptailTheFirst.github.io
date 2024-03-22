@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>有你，真好</title>
+    <url>/article/7ff28688/</url>
+    <content><![CDATA[<style type="text/css">
+html {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(1);
+}
+</style>
+<p>古人云：“独学而无友，则孤陋而寡闻。” 一个好的朋友，就像大海上吹着帆船远航的风、迷雾中指引方向的灯、干旱时滋润万物的雨、饥荒时盛满粮食的甑。幸运的是，我便有这样一个朋友。</p>
+<p>那是好久好久前的一个下午，最后一节课是班会课。班主任拿着月考成绩单，火急火燎的赶到班上。只见他怒目圆睁，双眼直望着我们，眼中仿佛射出万道火光。那目光就像一把尖刀，刺进了全班同学的心房，大家都不约而同地低下了头。他的拳头青筋暴起，怒气冲冲地锤了一下讲桌，震得板擦都跳了起来。那天下午，他除了把全班同学 “批斗” 了一顿外，还单独找某些 “罪行累累” 的 “头领” 喝了茶，而第一个被 “枪毙” 的就是我。</p>
+<p>走出办公室后，我的心情十分沉重。我感觉周围的空气仿佛凝为一团，而我就再这样胶泥一般的空气里奋力游动。办公室到教室的路仿佛特别长，就像是在传送带上逆向而行。楼梯间里洒满了阳光，我却一点都感不到耀眼。因为我心里一直在想两个问题：我真的努力了吗？还是说，我不行？</p>
+<p>大家都去吃晚饭时，我正自己一个躲在窗帘后，看窗外的人流密集了而又疏松，看路上的男女师生互相欢声笑语，看…… 窗帘忽然被掀开了，来者不是别人，正是我最要好的朋友小李。他拉着我过去，坐下，跟我聊了起来。时至今日，我仍然记得那场景：他的眼睛睁得老大，比平常更大、更亮、更炯炯有神；他的嘴中吐出那些熟悉的词语 — 排名、平均、进步、不应该…… 他的手中拿着我最近几次的成绩单，他指这儿、写那儿、打线儿、标数儿，一切都那么熟练。那天下午我们在那一亩三分地上，在那块 “自留地” 上，在那两块心田交接的田埂上 —— 谈了很多。尽管内容记不清了，但我们两个达成的 “条约” 我仍然记忆犹新：互帮互助，共同进步。</p>
+<p>从此，教室中，餐厅中，宿舍里，到处都能看到我们两个的身影。在这两个身影旁，经常会听到跟这相像的话语：“三十五还是七十”“密度是……”“比喻的修辞手法”“communicate”…… 如此如此。时光如白驹过隙，校里的荷花开了又败了，我和小李的最后一战 —— 期末考试，来了。常言道：“厚积薄发，深入浅出。” 一个多月的努力，到底是换到了战果……</p>
+<p>“去年今日此门中，人面桃花相映红。人面不知何处去，桃花依旧笑春风。” 是啊，岁月不留人。毕业后，曾经相约壮志未酬誓不休的少年们，转眼间曲尽人散，各奔东西。天沧沧，野茫茫，风吹草低，只见牛羊。尽管小李与我现在已经联系不上了，但我们两人之间的友谊，却得以 —— 我希望得以 —— 在大千世间中，留下一丝温暖，留下一丝回忆。</p>
+<blockquote>
+<p>谨以此文悼念我的朋友……</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>生活</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>生活随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>标签外挂测试</title>
+    <url>/article/533f6a6/</url>
+    <content><![CDATA[<h1 id="额外安装的标签外挂">额外安装的标签外挂</h1>
+<h2 id="Tag-Plugins-Plus">Tag Plugins Plus <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></h2>
+<h3 id="行内文本样式-text">行内文本样式 text</h3>
+<ol>
+<li>带 <u>下划线</u> 的文本</li>
+<li>带 <emp>着重号</emp> 的文本</li>
+<li>带 <wavy>波浪线</wavy> 的文本</li>
+<li>带 <del>删除线</del> 的文本</li>
+<li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li>
+<li> 密码样式的文本：<psw>这里没有验证码</psw></li>
+</ol>
+<h3 id="行内文本-span">行内文本 span</h3>
+<ul>
+<li>彩色文字
+在一段话中方便插入各种颜色的标签，包括：<span class="p red">红色</span>、<span class="p yellow">黄色</span>、<span class="p green">绿色</span>、<span class="p cyan">青色</span>、<span class="p blue">蓝色</span>、<span class="p gray">灰色</span>。</li>
+<li>超大号文字
+文档「开始」页面中的标题部分就是超大号文字。<span class="p center logo large">Volantis</span>
+<span class="p center small">A Wonderful Theme for Hexo</span>
+</li>
+</ul>
+<h3 id="段落文本-p">段落文本 p</h3>
+<ul>
+<li>彩色文字
+在一段话中方便插入各种颜色的标签，包括：<p class="p red">红色</p>、<p class="p yellow">黄色</p>、<p class="p green">绿色</p>、<p class="p cyan">青色</p>、<p class="p blue">蓝色</p>、<p class="p gray">灰色</p>。</li>
+<li>超大号文字
+文档「开始」页面中的标题部分就是超大号文字。<p class="p center logo large">Volantis</p>
+<p class="p center small">A Wonderful Theme for Hexo</p>
+</li>
+</ul>
+<h3 id="上标标签-tip">上标标签 tip</h3>
+<div class="tip "><p>default</p>
+</div>
+<div class="tip info"><p>info</p>
+</div>
+<div class="tip success"><p>success</p>
+</div>
+<div class="tip error"><p>error</p>
+</div>
+<div class="tip warning"><p>warning</p>
+</div>
+<div class="tip bolt"><p>bolt</p>
+</div>
+<div class="tip ban"><p>ban</p>
+</div>
+<div class="tip home"><p>home</p>
+</div>
+<div class="tip sync"><p>sync</p>
+</div>
+<div class="tip cogs"><p>cogs</p>
+</div>
+<div class="tip key"><p>key</p>
+</div>
+<div class="tip bell"><p>bell</p>
+</div>
+<div class="tip fa-atom"><p>自定义 font awesome 图标</p>
+</div>
+<h3 id="引用-note">引用 note</h3>
+<div class="note info simple"><p>已取代</p>
+</div>
+<h3 id="动态标签-anima">动态标签 anima</h3>
+<h4 id="On-DOM-load">On DOM load</h4>
+<div class="tip warning faa-horizontal animated"><p>warning</p>
+</div>
+<div class="tip ban faa-flash animated"><p>ban</p>
+</div>
+<h4 id="调整动画速度">调整动画速度</h4>
+<div class="tip warning faa-horizontal animated faa-fast"><p>warning</p>
+</div>
+<div class="tip ban faa-flash animated faa-slow"><p>ban</p>
+</div>
+<h4 id="On-hover（当鼠标悬停时显示动画）">On hover（当鼠标悬停时显示动画）</h4>
+<div class="tip warning faa-horizontal animated-hover"><p>warning</p>
+</div>
+<div class="tip ban faa-flash animated-hover"><p>ban</p>
+</div>
+<h4 id="On-parent-hover（当鼠标悬停在父级元素时显示动画）">On parent hover（当鼠标悬停在父级元素时显示动画）</h4>
+<div class="tip warning faa-parent animated-hover"><p class="faa-horizontal">warning</p></div>
+<div class="tip ban faa-parent animated-hover"><p class="faa-flash">ban</p></div>
+<h3 id="复选列表-checkbox">复选列表 checkbox</h3>
+<div class="checkbox"><input type="checkbox">
+            <p>纯文本测试</p>
+            </div>
+<div class="checkbox checked"><input type="checkbox" checked="checked">
+            <p>支持简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>
+            </div>
+<div class="checkbox red"><input type="checkbox">
+            <p>支持自定义颜色</p>
+            </div>
+<div class="checkbox green checked"><input type="checkbox" checked="checked">
+            <p>绿色 + 默认选中</p>
+            </div>
+<div class="checkbox yellow checked"><input type="checkbox" checked="checked">
+            <p>黄色 + 默认选中</p>
+            </div>
+<div class="checkbox cyan checked"><input type="checkbox" checked="checked">
+            <p>青色 + 默认选中</p>
+            </div>
+<div class="checkbox blue checked"><input type="checkbox" checked="checked">
+            <p>蓝色 + 默认选中</p>
+            </div>
+<div class="checkbox plus green checked"><input type="checkbox" checked="checked">
+            <p>增加</p>
+            </div>
+<div class="checkbox minus yellow checked"><input type="checkbox" checked="checked">
+            <p>减少</p>
+            </div>
+<div class="checkbox times red checked"><input type="checkbox" checked="checked">
+            <p>叉</p>
+            </div>
+<h3 id="单选列表-radio">单选列表 radio</h3>
+<div class="checkbox"><input type="radio">
+            <p>纯文本测试</p>
+            </div>
+<div class="checkbox checked"><input type="radio" checked="checked">
+            <p>支持简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>
+            </div>
+<div class="checkbox red"><input type="radio">
+            <p>支持自定义颜色</p>
+            </div>
+<div class="checkbox green"><input type="radio">
+            <p>绿色</p>
+            </div>
+<div class="checkbox yellow"><input type="radio">
+            <p>黄色</p>
+            </div>
+<div class="checkbox cyan"><input type="radio">
+            <p>青色</p>
+            </div>
+<div class="checkbox blue"><input type="radio">
+            <p>蓝色</p>
+            </div>
+<h3 id="链接卡片-link">链接卡片 link</h3>
+<div class="tag link"><a class="link-card" title="文章效果与字体编码测试" href="http://lynx3.netlify.app/article/a36a68fc/"><div class="left"><img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp"></div><div class="right"><p class="text">文章效果与字体编码测试</p><p class="url">http://lynx3.netlify.app/article/a36a68fc/</p></div></a></div>
+<h3 id="按钮-btns">按钮 btns</h3>
+<p><a href="/article/483eced7/">Tag Plugins Plus 有关不稳定标签的测试</a></p>
+<h3 id="github-卡片-ghcard">github 卡片 ghcard</h3>
+<h4 id="用户信息卡片">用户信息卡片</h4>
+<table>
+<thead>
+<tr>
+<th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;show_owner=true"></a></th>
+<th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=vue&amp;show_owner=true"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=buefy&amp;show_owner=true"></a></td>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=solarized-light&amp;show_owner=true"></a></td>
+</tr>
+<tr>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=onedark&amp;show_owner=true"></a></td>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=solarized-dark&amp;show_owner=true"></a></td>
+</tr>
+<tr>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=algolia&amp;show_owner=true"></a></td>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/LynxCatTheThird"><img src="https://github-readme-stats.vercel.app/api/?username=LynxCatTheThird&amp;theme=calm&amp;show_owner=true"></a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="仓库信息卡片">仓库信息卡片</h4>
+<table>
+<thead>
+<tr>
+<th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;show_owner=true"></a></th>
+<th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=vue&amp;show_owner=true"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=buefy&amp;show_owner=true"></a></td>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=solarized-light&amp;show_owner=true"></a></td>
+</tr>
+<tr>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=onedark&amp;show_owner=true"></a></td>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=solarized-dark&amp;show_owner=true"></a></td>
+</tr>
+<tr>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=algolia&amp;show_owner=true"></a></td>
+<td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&amp;repo=hexo-theme-volantis&amp;theme=calm&amp;show_owner=true"></a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="github-徽标-ghbdage">github 徽标 ghbdage</h3>
+<h4 id="基本参数-定义徽标左右文字和图标">基本参数，定义徽标左右文字和图标</h4>
+<object class="ghbdage" style="margin-inline:5px" title="" standby="loading..." data="https://img.shields.io/badge/Butterfly-Theme-orange?logo=&amp;color=orange&amp;link=&amp;"></object>
+<object class="ghbdage" style="margin-inline:5px" title="" standby="loading..." data="https://img.shields.io/badge/Hexo-Frame-orange?logo=hexo&amp;color=orange&amp;link=&amp;"></object>
+<h4 id="信息参数，定义徽标右侧内容背景色，指向链接">信息参数，定义徽标右侧内容背景色，指向链接</h4>
+<object class="ghbdage" style="margin-inline:5px" title="本站使用JsDelivr为静态资源提供CDN加速" standby="loading..." data="https://img.shields.io/badge/JsDelivr-CDN-orange?logo=jsDelivr&amp;color=abcdef&amp;link=https://metroui.org.ua/index.html&amp;"></object>
+<blockquote>
+<p>如果是跨顺序省略可选参数，仍然需要写个逗号，用作分割</p>
+<object class="ghbdage" style="margin-inline:5px" title="" standby="loading..." data="https://img.shields.io/badge/GitHub-Source-orange?logo=GitHub&amp;color=orange&amp;link=https://github.com/&amp;"></object>
+</blockquote>
+<h4 id="拓展参数，支持-shields-的-API-的全部参数内容">拓展参数，支持 shields 的 API 的全部参数内容</h4>
+<object class="ghbdage" style="margin-inline:5px" title="本站采用双线部署，默认线路托管于Vercel" standby="loading..." data="https://img.shields.io/badge/Vercel-Hosted-orange?logo=Vercel&amp;color=brightgreen&amp;link=https://vercel.com/&amp;style=social&amp;logoWidth=20"></object>
+<blockquote>
+<p>如果是跨顺序省略可选参数组，仍然需要写双竖线 || 用作分割</p>
+<object class="ghbdage" style="margin-inline:5px" title="" standby="loading..." data="https://img.shields.io/badge/Vercel-Hosted-orange?logo=Vercel&amp;color=orange&amp;link=&amp;style=social&amp;logoWidth=20&amp;logoColor=violet"></object>
+</blockquote>
+<h3 id="网站卡片-sites">网站卡片 sites</h3>
+<div class="site-card-group"><a class="site-card" href="https://www.baidu.com/"><div class="img"><img src="https://s2.hdslb.com/bfs/article/342dd0c53a2e1b46e03e11f528d76cfa304557fa.png@1e_1c.webp"></div><div class="info"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png"><span class="title">baidu</span><span class="desc"> 国内搜索巨头</span></div></a>
+<pangu> </pangu><a class="site-card" href="https://www.baidu.com/"><div class="img"><img src="https://s2.hdslb.com/bfs/article/342dd0c53a2e1b46e03e11f528d76cfa304557fa.png@1e_1c.webp"></div><div class="info"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png"><span class="title">baidu</span><span class="desc"> 国内搜索巨头</span></div></a>
+<pangu> </pangu><a class="site-card" href="https://www.baidu.com/"><div class="img"><img src="https://s2.hdslb.com/bfs/article/342dd0c53a2e1b46e03e11f528d76cfa304557fa.png@1e_1c.webp"></div><div class="info"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png"><span class="title">baidu</span><span class="desc"> 国内搜索巨头</span></div></a>
+<pangu> </pangu><a class="site-card" href="https://www.baidu.com/"><div class="img"><img src="https://s2.hdslb.com/bfs/article/342dd0c53a2e1b46e03e11f528d76cfa304557fa.png@1e_1c.webp"></div><div class="info"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png"><span class="title">baidu</span><span class="desc"> 国内搜索巨头</span></div></a></div>
+<h3 id="行内图片-inlineimage">行内图片 inlineimage</h3>
+<div class="note info simple"><p>已移除</p>
+</div>
+<h3 id="单张图片-image">单张图片 image</h3>
+<div class="note info simple"><p>已移除</p>
+</div>
+<h3 id="音频-audio">音频 audio</h3>
+<div class="audio"><audio controls="" preload=""><source src="https://ghproxy.net/https://raw.githubusercontent.com/LynxCatTheThird/static-file/main/media/nggy.m4a" type="audio/mp3">Your browser does not support the audio tag.</audio></div>
+<h3 id="视频-video">视频 video</h3>
+<h4 id="100-宽度">100% 宽度</h4>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+
+<h4 id="50-宽度">50% 宽度</h4>
+
+<div class="videos" col="2"><div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div></div>
+<h4 id="25-宽度">25% 宽度</h4>
+<div class="videos" col="4"><div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<div class="video"><video controls="" preload=""><source src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" type="video/mp4">Your browser does not support the video tag.</video></div></div>
+<h3 id="相册-gallery">相册 gallery</h3>
+<div class="note info simple"><p>已取代</p>
+</div>
+<h3 id="折叠框-folding">折叠框 folding</h3>
+<details class="folding-tag"><summary> 查看图片测试 </summary>
+              <div class="content">
+              <p><img src="https://s2.hdslb.com/bfs/article/e4bb9f697983d94cd838ee6fda074c23b489052e.png@1e_1c.webp" alt=""></p>
+              </div>
+            </details>
+<details class="folding-tag" cyan="" open=""><summary> 查看默认打开的折叠框 </summary>
+              <div class="content">
+              <p>这是一个默认打开的折叠框。</p>
+              </div>
+            </details>
+<details class="folding-tag" green=""><summary> 查看代码测试 </summary>
+              <div class="content">
+              <figure class="highlight python"><table><tbody><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">"hello"</span>)</span><br></pre></td></tr></tbody></table></figure>
+              </div>
+            </details>
+<details class="folding-tag" yellow=""><summary> 查看列表测试 </summary>
+              <div class="content">
+              <ul><li>haha</li><li>hehe</li></ul>
+              </div>
+            </details>
+<details class="folding-tag" red=""><summary> 查看嵌套测试 </summary>
+              <div class="content">
+              <details class="folding-tag" blue=""><summary> 查看嵌套测试 2 </summary>              <div class="content">              <details class="folding-tag"><summary> 查看嵌套测试 3 </summary>              <div class="content">              <p>hahaha <img src="https://s2.hdslb.com/bfs/article/e4bb9f697983d94cd838ee6fda074c23b489052e.png@1e_1c.webp" style="height:24px"></p>              </div>            </details>              </div>            </details>
+              </div>
+            </details>
+<h3 id="分栏-tab">分栏 tab</h3>
+<div class="note info simple"><p>已取代</p>
+</div>
+<h3 id="数据集合-issues">数据集合 issues</h3>
+<h4 id="时间轴标签-timeline">时间轴标签 timeline</h4>
+<div class="issues-api timeline" api="https://api.github.com/repos/TG-Twilight/AWAvenue-Ads-Rule/issues?sort=updated&amp;state=open&amp;page=1&amp;per_page=100"></div>
+<h4 id="网站卡片标签-sites">网站卡片标签 sites</h4>
+<div class="issues-api sites" api="https://api.github.com/repos/volantis-x/examples/issues?sort=updated&amp;state=open&amp;page=1&amp;per_page=100"></div>
+<h4 id="网站卡片标签-sites-2">网站卡片标签 sites</h4>
+<div class="issues-api sites" api="https://api.github.com/repos/volantis-x/examples/issues?sort=updated&amp;state=open&amp;page=1&amp;per_page=100" group="version:版本：^4.0,版本：^3.0,版本：^2.0"></div>
+<h3 id="诗词标签-poem">诗词标签 poem</h3>
+<div class="note info simple"><p>已移除</p>
+</div>
+<h3 id="阿里图标-icon">阿里图标 icon</h3>
+<div class="note info simple"><p>已移除</p>
+</div>
+<h3 id="特效标签-wow">特效标签 wow</h3>
+<div class="wow animate__flip" data-wow-duration="" data-wow-delay="" data-wow-offset="" data-wow-iteration=""><div class="note green icon-padding modern"><i class="note-icon fas fa-fan"></i><p><code>flip</code> 动画效果。</p>
+</div></div>
+<div class="wow animate__zoomIn" data-wow-duration="5s" data-wow-delay="5s" data-wow-offset="100" data-wow-iteration="10"><div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p><code>zoomIn</code> 动画效果，持续 <code>5s</code>，延时 <code>5s</code>，离底部 <code>100</code> 距离时启动，重复 <code>10</code> 次</p>
+</div></div>
+<div class="wow animate__slideInRight" data-wow-duration="5s" data-wow-delay="5s" data-wow-offset="" data-wow-iteration=""><div class="note orange icon-padding modern"><i class="note-icon fas fa-car"></i><p><code>slideInRight</code> 动画效果，持续 <code>5s</code>，延时 <code>5s</code>。</p>
+</div></div>
+<div class="wow animate__heartBeat" data-wow-duration="" data-wow-delay="5s" data-wow-offset="" data-wow-iteration="10"><div class="note red icon-padding modern"><i class="note-icon fas fa-battery-half"></i><p><code>heartBeat</code> 动画效果，延时 <code>5s</code>，重复 <code>10</code> 次。</p>
+</div></div>
+<h3 id="进度条-progress">进度条 progress</h3>
+<div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-red" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>
+<div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-yellow" style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>
+<div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-green" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>
+<div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-cyan" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>
+<div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-blue" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>
+<div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-gray" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div>
+<h3 id="气泡注释-bubble">气泡注释 bubble</h3>
+<p>最近我学到了不少新玩意儿（虽然对很多大佬来说这些已经是旧技术了），比如 CSS 的<span class="bubble-content">兄弟相邻选择器</span><span class="bubble-notation"><span class="bubble-item" style="background-color:#71a4e3;">例如 h1 + p {margin-top:50px;}</span></span>，<span class="bubble-content">flex 布局</span><span class="bubble-notation"><span class="bubble-item" style="background-color:#ec5830;"> Flex 是 Flexible Box 的缩写，意为弹性布局 "，用来为盒状模型提供最大的灵活性"</span></span>，<span class="bubble-content">transform 变换</span><span class="bubble-notation"><span class="bubble-item" style="background-color:#1db675;"> transform 属性向元素应用 2D 或 3D 转换。该属性允许我们对元素进行旋转、缩放、移动或倾斜。</span></span>，animation 的<span class="bubble-content">贝塞尔速度曲线</span><span class="bubble-notation"><span class="bubble-item" style="background-color:#de4489;">贝塞尔曲线 (Bézier curve)，又称贝兹曲线或贝济埃曲线，是应用于二维图形应用程序的数学曲线。一般的矢量图形软件通过它来精确画出曲线，贝兹曲线由线段与节点组成，节点是可拖动的支点，线段像可伸缩的皮筋</span></span>写法，还有今天刚看到的<span class="bubble-content"> clip-path</span><span class="bubble-notation"><span class="bubble-item" style="background-color:#868fd7;">clip-path 属性使用裁剪方式创建元素的可显示区域。区域内的部分显示，区域外的隐藏。</span></span>属性。这些对我来说很新颖的概念狠狠的冲击着我以前积累起来的设计思路。</p>
+<h3 id="引用文献-reference">引用文献 reference</h3>
+<p>Akilar の糖果屋 (akilar.top) 是一个私人性质的博客 <span class="hidden-anchor" id="referto_[1]"></span><sup class="reference"><a href="#referfrom_[1]">[1]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Akilar の糖果屋群聊简介</span><span class="reference-title">参考资料</span></span></span>，从各类教程至生活点滴，无话不谈。建群的目的是提供一个闲聊的场所。博客采用 Hexo 框架 <span class="hidden-anchor" id="referto_[2]"></span><sup class="reference"><a href="#referfrom_[2]">[2]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Hexo 中文文档</span><span class="reference-title">参考资料</span></span></span>，Butterfly 主题 <span class="hidden-anchor" id="referto_[3]"></span><sup class="reference"><a href="#referfrom_[3]">[3]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Butterfly 安装文档 (一) 快速开始</span><span class="reference-title">参考资料</span></span></span></p>
+<p>本项目参考了 Volantis<span class="hidden-anchor" id="referto_[4]"></span><sup class="reference"><a href="#referfrom_[4]">[4]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">hexo-theme-volantis 标签插件</span><span class="reference-title">参考资料</span></span></span>的标签样式。引入 <code>[tag].js</code>，并针对 <code>butterfly</code> 主题修改了相应的 <code>[tag].styl</code>。在此鸣谢 <code>Volantis</code> 主题众开发者。
+主要参考内容包括各个 volantis 的内置标签插件文档 <span class="hidden-anchor" id="referto_[5]"></span><sup class="reference"><a href="#referfrom_[5]">[5]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Volantis 文档：内置标签插件</span><span class="reference-title">参考资料</span></span></span>
+Butterfly 主题的各个衍生魔改 <span class="hidden-anchor" id="referto_[6]"></span><sup class="reference"><a href="#referfrom_[6]">[6]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Butterfly 安装文档：标签外挂（Tag Plugins</span><span class="reference-title"> 参考资料 </span></span></span><span class="hidden-anchor" id="referto_[7]"></span><sup class="reference"><a href="#referfrom_[7]">[7]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature"> 小弋の生活馆全样式预览</span><span class="reference-title">参考资料 </span></span></span><span class="hidden-anchor" id="referto_[8]"></span><sup class="reference"><a href="#referfrom_[8]">[8]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">l-lin-font-awesome-animation</span><span class="reference-title"> 参考资料 </span></span></span><span class="hidden-anchor" id="referto_[9]"></span><sup class="reference"><a href="#referfrom_[9]">[9]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature"> 小康的 butterfly 主题使用文档</span><span class="reference-title">参考资料</span></span></span></p>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[1]"></span><a class="reference-anchor" href="#referto_[1]">[1]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://jq.qq.com/?_wv=1027&amp;k=pGLB2C0N">Akilar の糖果屋群聊简介</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[2]"></span><pangu> </pangu><a class="reference-anchor" href="#referto_[2]">[2]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://hexo.io/zh-cn/docs/">Hexo 中文文档</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[3]"></span><pangu> </pangu><a class="reference-anchor" href="#referto_[3]">[3]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安装文档 (一) 快速开始</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[4]"></span><pangu> </pangu><a class="reference-anchor" href="#referto_[4]">[4]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://volantis.js.org/v5/tag-plugins/">hexo-theme-volantis 标签插件</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[5]"></span><pangu> </pangu><a class="reference-anchor" href="#referto_[5]">[5]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://volantis.js.org/tag-plugins/">Volantis 文档：内置标签插件</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[6]"></span><pangu> </pangu><a class="reference-anchor" href="#referto_[6]">[6]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://butterfly.js.org/posts/4aa8abbe/#%E6%A8%99%E7%B1%A4%E5%A4%96%E6%8E%9B%EF%BC%88Tag-Plugins%EF%BC%89">Butterfly 安装文档：标签外挂（Tag Plugins</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[7]"></span><a class="reference-anchor" href="#referto_[7]">[7]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><pangu> </pangu><a class="reference-link" href="https://lovelijunyi.gitee.io/posts/c898.html">小弋の生活馆全样式预览</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[8]"></span><pangu> </pangu><a class="reference-anchor" href="#referto_[8]">[8]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://github.com/l-lin/font-awesome-animation">l-lin-font-awesome-animation</a></div>
+<div class="reference-source"><span class="hidden-anchor" id="referfrom_[9]"></span><a class="reference-anchor" href="#referto_[9]">[9]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><pangu> </pangu><a class="reference-link" href="https://www.antmoe.com/posts/3b43914f/">小康的 butterfly 主题使用文档</a></div>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>来自 <a href="https://akilar.top/posts/615e2dec/">https://akilar.top/posts/615e2dec/</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>网站搭建</category>
+      </categories>
+      <tags>
+        <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>类原生优化计划</title>
+    <url>/article/4097fa9/</url>
+    <content><![CDATA[<div class="tip bell"><p>初版文章有错误且已过期，请不要参考</p>
+</div>
+<div class="tip fa-atom"><p>限于具体情况不同，不能保证方案的通用性，请依据具体情况合理调整！</p>
+</div>
+<div class="tip fa-atom"><p>需要 Root</p>
+</div>
+<p>作为一个信息学爱好者，怎么能不搞刷机呢？作为旧机型用户，我已经遭受绿厂迫害数年了。一气之下，我便把手机刷成了类原生（DotOS 5.2 Vanilla）。在使用了数月后，有了些许经验，分享一下。</p>
+<h1 id="机型概况">机型概况</h1>
+<p>机子是 2017 年发布的 OPPO R11，CPU 是骁龙 600aie，运存 4GB，闪存 64GB（实际可用 58GB）。电池是原装的 3000mAh 的（现在只有 2200mAh 了 TAT）</p>
+<h1 id="系统概况">系统概况</h1>
+<p>系统用的 R11_11_ROM_dotOS5.2_Vanilla_20230925_b3642af1.zip，Android 版本 11，内核 4.4.153-perf+，内部版本 RD2A.211001.002，基带 Q_V1_P14。带有 Kitsune Mask Canary，LSPosed CI。</p>
+<h1 id="易用性">易用性</h1>
+<p>咱是国内用户，自然用不惯，需要进行一定设置.</p>
+<h2 id="全面屏手势">全面屏手势</h2>
+<p>对于某些人来说，全面屏手势是日常不可或缺的功能，但……DotOS 没有！对此，只能用三方软件 Gesture 解决。</p>
+<p>注：对于其性能差的现象，请到软件设置里授予 Root 并关闭前台监听即可</p>
+<h2 id="其它">其它</h2>
+<p>对于机友来说，免核心降级啊，模块之类在此不多赘言，适合自己的，才是最好的！</p>
+<h1 id="流畅度">流畅度</h1>
+<h2 id="内存方向">内存方向</h2>
+<p>对于 Android 11+Magisk+LSPosed+Shizuku + 小而美 + QQ+etc. 来说，sdm660+4GB 已显捉襟见肘。对于小而美，QQ，B 站，抖音等软件，其本身优化就极差，再加一堆 XpHook，性能便更差了：不仅狂杀后台，而且时常会 OOM。怎么办呢？对于内存过小的问题，办法有：</p>
+<h3 id="交换空间">交换空间</h3>
+<div class="tip ban"><p>交换空间<strong>可能</strong>会带来一定负面影响，包括增多耗电、发热、消耗闪存寿命等。但总体而言，手动调节交换空间可以提高流畅度、保留后台，利远大于弊</p>
+</div>
+<p>为了从源头上解决内存捉襟见肘的问题，我们可以使用交换空间。这里我使用使用 Scene 调节。</p>
+<h4 id="ZRAM">ZRAM</h4>
+<p>ZRAM 是在内存中划出一块来并对其进行压缩，详情可见 <a href="https://wiki.archlinuxcn.org/wiki/Zram">ArchWikiCN</a>。正因如此，ZRAM 设置不当会给 CPU 带来显著的压力，进而拉大耗电量、减少续航。</p>
+<p>如果您只打算开 ZRAM，那么建议在 2GB 到 2.75GB（2048MB 到 2816MB）之间。过小作用不大，过大拉多耗电量。</p>
+<h4 id="Swap">Swap</h4>
+<div class="tip ban"><p>不可以只启用 Swap，这会严重拉慢磁盘 IO 与严重磨损磁盘！</p>
+</div>
+<h4 id="ZRAM-Swap">ZRAM+Swap</h4>
+<div class="tip info"><p>推荐的方案</p>
+</div>
+<p>ZRAM 建议在 1.5GB 到 2.5GB（1536MB 到 2560MB）之间，Swap 建议在 0.5GB 到 1.5GB（1024MB 到 1536MB）之间，并且当 Scene 提示交换策略时，选择优先使用 ZRAM。这样可以让新鲜的数据在较快的 ZRAM 里交换，而当 ZRAM 被榨干时则把脏数据写到 Swap 以备过后使用。</p>
+<p><img src="https://s2.hdslb.com/bfs/article/20f11065f4af3fd39fe1100c57e465231352440272.png@1000h.webp" alt="效果图"></p>
+<h4 id="VM-Parameters">VM Parameters</h4>
+<p>将 swapiness 和 extra_free_kbytes 拉得较大。这样可以保证留有充足的 RAM 以防止 OOM。</p>
+<h3 id="特殊版本">特殊版本</h3>
+<h4 id="微信">微信</h4>
+<p>微信版本复杂，建议参考<a href="https://gitee.com/ww3w/dzb/blob/master/1.md#-%E5%BE%AE%E4%BF%A1">百分之千 / 定制版应用收藏 / 版本拐点</a>选择，并从<a href="https://www.coolapk.com/feed/51351476">酷安老哥微笑渲染悲伤的帖子</a>里下载。</p>
+<p>比较推荐的是 7.0.21、Play8.0.15、Play8.0.33、8.0.42（话说这几个好像也不咋地，所以：zxl,****！）</p>
+<h4 id="QQ">QQ</h4>
+<p>建议用 9.0.8，可以从 <a href="https://t.me/QQUpdates">QQUpdates</a>、<a href="https://t.me/qq_updatelog">QQ/TIM Update Log</a> 获得。9.0.15 和 9.0.17 有多人报道冷启动、小程序、扫码变慢。</p>
+<h4 id="Others">Others</h4>
+<p>请参考以下几个视频：</p>
+<p><a href="https://www.bilibili.com/video/BV16P411P7QT/">安卓软件保姆级优化，让你的手机再战三年！</a></p>
+<p><a href="https://www.bilibili.com/video/BV1r94y1T7Xa/">让老旗舰机重回新生？请收好这份养老软件指南！</a></p>
+<h3 id="三方客户端">三方客户端</h3>
+<p>对于某些热门软件，可能会有大佬用爱发电。传送门有：</p>
+<ul>
+<li><a href="https://github.com/lucinhu/bili_you">BiliYou</a>（哔哩哔哩）</li>
+<li><a href="https://github.com/guozhigq/pilipala">Pilipala</a>（哔哩哔哩）</li>
+<li><a href="https://github.com/huajiqaq/Hydrogen">Hydrogen</a>（知乎）</li>
+<li><a href="https://github.com/NextAlone/Nagram/">Nagram</a>（Telegram）</li>
+<li><a href="https://github.com/CeuiLiSA/Pixiv-Shaft">Shaft</a>（Pixiv）</li>
+</ul>
+<p>这些三方客户端有更为优秀的外观，更为可观的速度，以及某些诱人的功能。</p>
+<h3 id="手动养老">手动养老</h3>
+<p>对 QQ 微信等压力大的软件启动 Scene 监视器，随时监测硬件状况以逼迫自己养老，防止 OOM。</p>
+<h2 id="CPU-方向">CPU 方向</h2>
+<h3 id="通用">通用</h3>
+<p>推介以下两件套：<a href="http://vtools.omarea.com/">Scene</a> 、<a href="https://moka.latestfile.zip/">Moka</a>。</p>
+<p>Scene 可以调整 CPU，Moka 可以删除温控［注意：OPPO R11 一路下键即可，删不干净很正常，全删掉会有 Bug（比如爆音、打电话自动开免提、录屏时录不了系统内部声音）］</p>
+<h3 id="三方调度">三方调度</h3>
+<h4 id="Uperf-方案">Uperf 方案</h4>
+<p>刷入 <a href="https://github.com/yinwanxi/Uperf-Game-Turbo">Uperf Game Turbo</a>、<a href="https://github.com/nakixii/Magisk_AsoulOpt">AsoulOpt</a></p>
+<p>Uperf Game Turbo 可以较好得调节 CPU, 使之在需要省电时省电、需要性能时高效。（注意：我们只需要 Uperf Game Turbo 的配置文件，而不需要其过分地教我们做事。为了避免其引起的一系列问题，请在刷入后将其禁用。）</p>
+<p>AsoulOpt 可以调节线程，提高 CPU 效率。
+<img src="https://s2.hdslb.com/bfs/article/5b176872d9d21a056c214fb990aa0a881352440272.png@1000h.webp" alt=""></p>
+<h4 id="CuprumTurbo-Scheduler-方案"><a href="https://github.com/chenzyadb/CuprumTurbo-Scheduler">CuprumTurbo Scheduler</a> 方案</h4>
+<p>说这个东西可能令人眼前一黑，但如果说 CuToolBox，相信大多数人都耳熟能详。CuprumTurbo Scheduler 就是 CuToolBox 的模块版。</p>
+<p>经过测试后发现其确实有助于提升流畅性；但未经长期测试，加之峰值功率与 Uperf Game Turbo 相比明显偏大，难以得出准确结论。
+<img src="https://s2.hdslb.com/bfs/article/589abf4ddc5824f1bcc037639c4391171352440272.png@1000h.webp" alt=""></p>
+<div class="tip ban"><p>安装 CuprumTurbo Scheduler 前，请先卸载 Uperf 及其相关和衍生模块和 AsoulOpt，并关闭 Scene 的核心分配与高通的 Performance Boost Config</p>
+<p><img class="inline-img" src="https://s2.hdslb.com/bfs/article/b78cebe362474026d5abdcd637f6cba61352440272.png@1e_1c.webp" style="height:600px"><img class="inline-img" src="https://s2.hdslb.com/bfs/article/74af917c131fcdb2609cf48c4802f5a31352440272.png@1e_1c.webp" style="height:600px"></p>
+</div>
+<h4 id="Tritium-Fiage-方案">Tritium Fiage 方案</h4>
+<p>Tritium Fiage 是基于 CuprumTurbo Scheduler 的修改版，可以从酷安的<a href="https://www.coolapk.com/u/3922059">鱼龄</a>那里下载。</p>
+<p>启用后建议将性能模式设为默认。功耗基本不会变，但流畅度会好很多。</p>
+<p><img src="https://s2.hdslb.com/bfs/article/8a224c202551da98cb6b8440784107621352440272.png@1000h.webp" alt="如图，极端场景（此处为连续刷 4K 视频）下功率仍不太高"></p>
+<p><img src="https://s2.hdslb.com/bfs/article/e279516c9b215b5c4b438be2eb8416071352440272.png@1000h.webp" alt="功耗"></p>
+<div class="tip ban"><p>安装 Tritium Fiage 前，请先卸载 Uperf 及其相关和衍生模块和 AsoulOpt，并关闭 Scene 的核心分配与高通的 Performance Boost Config</p>
+<p><img class="inline-img" src="https://s2.hdslb.com/bfs/article/b78cebe362474026d5abdcd637f6cba61352440272.png@1e_1c.webp" style="height:600px"><img class="inline-img" src="https://s2.hdslb.com/bfs/article/74af917c131fcdb2609cf48c4802f5a31352440272.png@1e_1c.webp" style="height:600px"></p>
+</div>
+<div class="tip sync"><p>请来到 /data/adb/modules/ct_module/modules，手动安装 cu_jank_detector.zip</p>
+</div>
+<div class="tip warning faa-horizontal animated faa-slow"><p>不要安装解除系统限制模块。这是与 Moka 重复的去温控模块，并且效果略差</p>
+</div>
+<h2 id="Dex2oat">Dex2oat</h2>
+<p>手动 dex2oat 可以提高冷启动速度并降低 CPU 和 RAM 占用，具体选哪一个模式请自行测试。</p>
+<p><img src="https://s2.hdslb.com/bfs/article/67d3336ea1ab8de166b5263c41f0af711352440272.png@700h.webp" alt="编译过程"></p>
+<h1 id="后台">后台</h1>
+<div class="tip sync"><p>这里假设您使用 ZRAM（2048MB）+Swap（1536MB）+Tritium Fiage（1.2.1） 方案！</p>
+</div>
+<div class="tip warning faa-horizontal animated faa-slow"><p>后台优化后并不是可以放飞自我了；相反，留后台会显著加大 OOM 的风险，尤其是在 OPPOR11 等 RAM 吃紧的机型上，请务必适当设置交换空间，并合理使用！</p>
+</div>
+<h2 id="选择合适的软件版本">选择合适的软件版本</h2>
+<p>这里我选择的如下：</p>
+<ol>
+<li>微信：WeChat play8.9.33（1306），单号</li>
+<li> QQ：QQ 9.0.8（5540），双号切换</li>
+</ol>
+<h2 id="对非必要软件关禁闭">对非必要软件关禁闭</h2>
+<p>使用小黑屋、雹等软件，以禁用方式冻结在后台死皮赖脸的软件。</p>
+<p>推荐列表：</p>
+<ol>
+<li>软件商店类</li>
+<li>购物、支付、金融（有特殊需求除外）</li>
+<li>社区（比如知乎、贴吧等）</li>
+</ol>
+<h2 id="调节所有软件后台活动">调节所有软件后台活动</h2>
+<div class="tip fa-atom"><p>请集中注意力！</p>
+</div>
+<ol>
+<li>在 Thanox 的后台启动和后台运行中对<strong>用户应用</strong>设置<strong>全不</strong>，在任务清理和乖巧模式中设置<strong>全部</strong>，随后排除 Shizuku、输入法、三方 Widget 等常驻后台的软件。</li>
+<li>切换过滤规则为系统，对软件商店等毒瘤适当设置。（我用类原生，没有经验，提供不了相关建议）</li>
+<li>添加模板，仅打开任务清理和乖巧模式（仅点亮这两个开关，其他均灭掉），并启用自动配置</li>
+</ol>
+<h3 id="注意">注意</h3>
+<ol>
+<li>对咕噜咕噜 Play 服务、咕噜咕噜服务框架和咕噜咕噜商店的操作可能会导致其它软件无法调用咕噜咕噜相关服务</li>
+<li>对下载器打开乖巧模式会导致下载通知冻结</li>
+<li>对浏览器打开后台运行而关闭任务清理可能会导致其一直在后台吃内存</li>
+</ol>
+<h2 id="为必要软件开小灶">为必要软件开小灶</h2>
+<h3 id="接消息">接消息</h3>
+<p>某些软件（比如微信 QQ 等通讯软件）要接消息，但如果一直挂后台占 RAM 太多，可在应用详情页：</p>
+<ol>
+<li>打开后台启动（否则开机不自启动）</li>
+<li>打开后台运行、后台保护，关闭任务清理（否则频繁被杀死）</li>
+<li>乖巧模式（减少后台占用）</li>
+</ol>
+<h3 id="监听">监听</h3>
+<p>某些软件（比如 Robot36、Thanox 后台记录、Scene 动态切换、Shizuku）要能够一直执行下去并试试反应用户操作，还有一些软件（比如天气小组件）要频繁获取信息，可在应用详情页：</p>
+<ol>
+<li>打开后台启动（否则开机不自启动）</li>
+<li>打开后台运行、后台保护，关闭任务清理、乖巧模式（否则频繁被杀死）</li>
+</ol>
+<h2 id="效果">效果</h2>
+<p><img src="https://s2.hdslb.com/bfs/article/5e24560d4bcad132eb0a52fe3375f49d1352440272.png@700h.webp" alt="开机静置五分钟后"></p>
+<p><img src="https://s2.hdslb.com/bfs/article/5e24560d4bcad132eb0a52fe3375f49d1352440272.png@700h.webp" alt="一边水Q群，一边在微信和老师聊天"></p>
+<p><img src="https://s2.hdslb.com/bfs/article/12ff98d20468deb923a5c073ea5fe0c11352440272.png@700h.webp" alt="使用一个半小时，再静置半小时"></p>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>刷机</category>
+      </categories>
+      <tags>
+        <tag>刷机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站速度优化指北</title>
+    <url>/article/a63f345a/</url>
+    <content><![CDATA[<div class="note warning simple"><p>未经专业测试，仅为个人使用体验</p>
+</div>
+<p>在开始之前，有这么一个网站：<a href="https://lynxcatthethird-person.netlify.app/html/loading.html">https://lynxcatthethird-person.netlify.app/html/loading.html</a>。</p>
+<p>这里面引入了五套字体，每套字体 3 个或 9 个字重，共计需要加载 1000 ～ 2000 个字体文件。那么，这个网页的速度与性能，会差到什么程度？</p>
+<p>由此，我们引出本文的话题：如何优化网站速度？</p>
+<h1 id="减少下载资源的数量与大小">减少下载资源的数量与大小</h1>
+<p>此话不必多说，但应如何做到呢？</p>
+<h2 id="合并文件">合并文件</h2>
+<p>文件的存储与传输都是按照一定的簇（数据包）来执行的。举个例子：有 100 个小文件，大小均为 1KB，簇（数据包）大小为 4KB，则它们的总大小为 400KB，而非 100KB！这无形之中就多了 300KB。而且，更多的文件就意味着更多的连接、请求、下载次数，耗时相当可观。</p>
+<p>合并文件的主要方法有：</p>
+<ol>
+<li>将多个 CSS/JS 合并为一个<br>可参见<a href="https://kmar.top/posts/7d9fb37e/">网站加载速度优化方案总结 | 山岳库博</a></li>
+<li>将 CSS/JS 嵌入至 HTML 中</li>
+</ol>
+<h2 id="压缩文件">压缩文件</h2>
+<p>HTML/JS/CSS 文件中的回车、部分空格、注释等仅起提高可读性的作用，却仍占用相当大体积，因此应将其删去。</p>
+<h3 id="Gulp">Gulp</h3>
+<p>参见<a href="https://kmar.top/posts/7d9fb37e/">网站加载速度优化方案总结 | 山岳库博</a></p>
+<h3 id="Hexo-插件">Hexo 插件</h3>
+<div class="tabs" id="方案"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="方案-1">方案 1</button><button type="button" class="tab " data-href="方案-2"> 方案 2</button></ul><div class="tab-contents"><div class="tab-item-content active" id="方案-1"><p>乐特的 <code>hexo-minify</code> 插件</p>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">npm install hexo-minify --save</span><br></pre></td></tr></tbody></table></figure>
+<p>在博客目录下 <code>_config.yml</code> 添加如下配置：</p>
+<figure class="highlight yaml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment">## Hexo-minify Default Config Options</span></span><br><span class="line"><span class="attr">minify:</span></span><br><span class="line">  <span class="attr">preview:</span> <span class="literal">false</span> <span class="comment">## 本地预览时是否压缩</span></span><br><span class="line">  <span class="attr">exclude:</span> [<span class="string">"*.min.*"</span>]</span><br><span class="line">  <span class="attr">js:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">sourceMap:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">false</span> <span class="comment">## 生成 sourceMap</span></span><br><span class="line">      <span class="comment">## 将 sourceMappingURL 插入压缩后的 js 文件，如果为 false 则需要在浏览器开发者工具中手动添加 sourceMap</span></span><br><span class="line">      <span class="attr">sourceMappingURL:</span> <span class="literal">false</span> <span class="comment">## //# sourceMappingURL=xxx.js.map</span></span><br><span class="line">    <span class="comment">## 详细配置: https://github.com/terser/terser#minify-options</span></span><br><span class="line">    <span class="attr">options:</span> {}</span><br><span class="line">  <span class="attr">css:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="comment">## 详细配置: https://github.com/clean-css/clean-css#compatibility-modes</span></span><br><span class="line">    <span class="attr">options:</span> {}</span><br><span class="line">  <span class="attr">html:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="comment">## 详细配置: https://github.com/kangax/html-minifier#options-quick-reference</span></span><br><span class="line">    <span class="attr">options:</span></span><br><span class="line">      <span class="attr">minifyJS:</span> <span class="literal">true</span> <span class="comment"># Compressed JavaScript</span></span><br><span class="line">      <span class="attr">minifyCSS:</span> <span class="literal">true</span> <span class="comment"># CSS Compressed</span></span><br><span class="line">      <span class="attr">removeComments:</span> <span class="literal">true</span> <span class="comment"># Remove the comments</span></span><br><span class="line">      <span class="attr">collapseWhitespace:</span> <span class="literal">true</span> <span class="comment"># Delete any extra space</span></span><br><span class="line">      <span class="attr">removeAttributeQuotes:</span> <span class="literal">true</span> <span class="comment"># Delete attribute quotes</span></span><br><span class="line">  <span class="attr">image:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">svg:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">      <span class="comment">## 详细配置: https://github.com/imagemin/imagemin-svgo#imageminsvgooptionsbuffer</span></span><br><span class="line">      <span class="attr">options:</span> {}</span><br><span class="line">    <span class="attr">jpg:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">      <span class="comment">## 详细配置: https://github.com/imagemin/imagemin-jpegtran#options</span></span><br><span class="line">      <span class="attr">options:</span> {}</span><br><span class="line">    <span class="attr">png:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">      <span class="comment">## 详细配置: https://github.com/imagemin/imagemin-pngquant#options</span></span><br><span class="line">      <span class="attr">options:</span> {}</span><br><span class="line">    <span class="attr">gif:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">      <span class="comment">## 详细配置: https://www.npmjs.com/package/imagemin-gifsicle#options</span></span><br><span class="line">      <span class="attr">options:</span> {}</span><br><span class="line">    <span class="attr">webp:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">      <span class="comment">## 详细配置: https://github.com/imagemin/imagemin-webp#options</span></span><br><span class="line">      <span class="attr">options:</span> {}</span><br><span class="line">  <span class="attr">font:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">    <span class="comment">## 详细配置: https://github.com/Lete114/fontmin-spider#api</span></span><br><span class="line">    <span class="attr">options:</span> {}</span><br></pre></td></tr></tbody></table></figure></div><div class="tab-item-content" id="方案-2"><p>来源：<a href="https://argvchs.github.io/2022/08/27/hexo-minify-static-files/">Hexo 压缩静态文件 | Argvchs の小窝</a></p>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">npm install hexo-html-minifier hexo-clean-css hexo-uglify --save</span><br></pre></td></tr></tbody></table></figure>
+<p>在博客目录下 <code>_config.yml</code> 添加如下配置：</p>
+<figure class="highlight yaml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">uglify:</span></span><br><span class="line">  <span class="attr">mangle:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">output:</span></span><br><span class="line">  <span class="attr">compress:</span></span><br><span class="line">  <span class="attr">exclude:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">"*.min.js"</span></span><br><span class="line"></span><br><span class="line"><span class="attr">clean_css:</span></span><br><span class="line">  <span class="attr">exclude:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">"*.min.css"</span></span><br><span class="line"></span><br><span class="line"><span class="attr">html_minifier:</span></span><br><span class="line">  <span class="attr">collapseBooleanAttributes:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">collapseWhitespace:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">ignoreCustomComments:</span> [<span class="type">!!js/regexp</span> <span class="string">/^\s*more/</span>]</span><br><span class="line">  <span class="attr">removeComments:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">removeEmptyAttributes:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">removeScriptTypeAttributes:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">removeStyleLinkTypeAttributes:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">minifyJS:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">minifyCSS:</span> <span class="literal">true</span></span><br></pre></td></tr></tbody></table></figure></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>
+<h2 id="减少-CSS-JS-加载数">减少 CSS/JS 加载数</h2>
+<p>更多的文件意味着更长的加载用时与渲染用时（RAM 时间与 CPU 时间），因此应慎重引入。</p>
+<p>以 Butterfly 主题为例，若您并不必需某些组件（如 abcjs），则应将其关闭。若您并不明确某些功能（如 Layload 与 Service&nbsp;Worker）的利与弊的大小关系，则也不应轻易启用。常见的有：</p>
+<h3 id="附加组件">附加组件</h3>
+<p>附加组件包括 abcjs，Mermaid，Katex/MathJax，Aplayer，美化插件（Firework 等）。这些东西并非必需，不应以多多益善为由开启。</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">aplayerInject:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br></pre></td></tr></tbody></table></figure>
+<p><em>(其余略去，请自行判断)</em></p>
+<h3 id="预加载">预加载</h3>
+<p>在双方网速足够快时，开启它作用并似乎不明显。但对于部署于 Github Pages 等国外平台，或带宽较低的情况，建议开启。</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">instantpage:</span> <span class="literal">true</span></span><br></pre></td></tr></tbody></table></figure>
+<h3 id="懒加载">懒加载</h3>
+<p>在图床速度足够快时，开启它作用并不明显，反而可能阻塞某些资源的加载（让它们卡在 “等待中”）。并且，懒加载会频繁的取消与发起资源的加载，拉长时间。</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">lazyload:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br></pre></td></tr></tbody></table></figure>
+<h1 id="启用-ServiceWorker">启用 ServiceWorker</h1>
+<p>部分服务器是没有缓存功能的，这意味着每次访问都需要从服务器下载资源，既浪费流量，又拉长加载时间，而 ServiceWorker 就解决了这一难题。ServiceWorker 可以对缓存进行合理调度，减少内容的下载量，对于速度提升十分明显。</p>
+<p><img src="https://s2.hdslb.com/bfs/article/4b52064d54f89ba1257c1465c14e91c5661ba107.png" alt="前"></p>
+<p><img src="https://s2.hdslb.com/bfs/article/d0a94c3cde25423d535785af26e12becc1cf4650.png" alt="后"></p>
+<p>具体部署过程此处不多讲，请参见 <a href="https://github.com/EmptyDreams/hexo-swpp">hexo-swpp</a>、 <a href="https://kmar.top/posts/b70ec88f/">Swpp Backends 官方文档</a> 和<a href="https://github.com/lisuid2/hexo1/blob/main/sw-rules.js">一份新版配置文件</a>。</p>
+<h1 id="保证资源加载畅通">保证资源加载畅通</h1>
+<p>在引用资源前，应确保来源稳定可靠。若其速度不稳定或服务时好时坏，可能会导致卡加载动画或卡白屏。</p>
+<p>应对资源和服务进行维护、监控或选择可靠的来源，引入前应进行<a href="https://itdog.cn/">多地 Ping/HTTP 测试</a>，确保多地访问通畅。</p>
+<p>若确因资金、政策、网络环境等原因不能保证服务时时可用，可用 CDN 竞速、资源镜像或 IP 属地判断等技术缓解。具体按可以参见 <a href="https://github.com/EmptyDreams/hexo-swpp">hexo-swpp</a>、 <a href="https://kmar.top/posts/b70ec88f/">Swpp Backends 官方文档</a> 和<a href="https://github.com/lisuid2/hexo1/blob/main/sw-rules.js">一份新版配置文件</a>。</p>
+<h1 id="停用加载动画与入场动画">停用加载动画与入场动画</h1>
+<p>很多朋友为了网页美观性往往会添加加载动画，但正如前面所说，只要有一条资源有问题，就会阻塞整个加载动画，致使网页迟迟显示不出有效内容。纵使是非全屏式动画（pace_css），也仿佛在提示用户 “嘿！我还没加载完呢！” 十分影响观念，建议关闭。</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">preloader:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br></pre></td></tr></tbody></table></figure>
+<p>在渲染负载较重的情况下（如引用了很多字体与大图），入场动画会抢占渲染其它内容所需的 CPU 与 GPU，影响渲染初期的效率，在某些低端设备或 GPU 有问题的设备上可能会引起卡顿，建议关闭。但对于页面较为轻量的情况，开启它反而可以隐藏加载时的闪烁，提高美观性。</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">enter_transitions:</span> <span class="literal">false</span></span><br></pre></td></tr></tbody></table></figure>
+<h1 id="使用合适的-CDN">使用合适的 CDN</h1>
+<p>打个比方，假如您在上海，收快递时，快递从苏州还是美国发过来快？显然是苏州！CDN 也同理。市面上常用的公益 CDN（JSDelivr，&nbsp;UnPKG，CDNJS）等多没有大陆节点，使用此类 CDN, 数据包往往要漂洋过海从美国发过来，速度堪忧。</p>
+<p>以 Butterfly&nbsp; 为例，可在配置中将 CDN 来源设为 custom 以使用国内 CDN（如 Staticfile）：</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">CDN:</span></span><br><span class="line">  <span class="attr">third_party_provider:</span> <span class="string">custom</span></span><br><span class="line">  <span class="attr">version:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">custom_format:</span> <span class="string">https://cdn.staticfile.net/${cdnjs_name}/${version}/${min_cdnjs_file}</span></span><br></pre></td></tr></tbody></table></figure>
+<p>若国内源无法包含所有所需文件，还可以给某资源设定单独链接。例如：</p>
+<figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">CDN:</span></span><br><span class="line">  <span class="attr">option:</span></span><br><span class="line">    <span class="attr">busuanzi:</span> <span class="string">https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js</span></span><br></pre></td></tr></tbody></table></figure>
+<p>若您的站点面向全球用户，则可选择 CDN 竞选、并发请求，IP 筛选等策略。具体按可以参见 <a href="https://github.com/EmptyDreams/hexo-swpp">hexo-swpp</a>、 <a href="https://kmar.top/posts/b70ec88f/">Swpp Backends 官方文档</a> 和<a href="https://github.com/lisuid2/hexo1/blob/main/sw-rules.js">一份新版配置文件</a>。</p>
+<h1 id="优化图片">优化图片</h1>
+<p>图片作为媒体的重头戏，在网页上不可或缺。随着图片体积的增大，图片所带来的负担也不容小觑。优化图片的要做的是减小体积，其方法有：</p>
+<ol>
+<li>手动降低分辨率、位深、色彩精度之类</li>
+<li>使用工具进行无损或低损压缩<br>参见：<a href="https://butterfly.js.org/posts/4073eda/#%E5%9C%96%E7%89%87%E5%A3%93%E7%B8%AE">Butterfly 安裝文檔 (六) 進階教程 | Butterfly</a></li>
+<li> 将 PNG，JPG 等格式转为 WeBP 或 Avif 格式<br>此类图片发布日期较新，有许多新技术以及新特征（比如在保证质量不太差的前提下，最大程度压缩体积），适合网页使用</li>
+<li>将 Gif 换用 APNG 或 MP4<br>Gif 不仅体积巨大，质量差，渲染还十分费力，不如直接用视频</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>网站搭建</category>
+      </categories>
+      <tags>
+        <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文章效果与字体编码测试</title>
+    <url>/article/a36a68fc/</url>
+    <content><![CDATA[<h1 id="Markdown-基本语法">Markdown 基本语法</h1>
+<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<h4 id="四级标题">四级标题</h4>
+<h5 id="五级标题">五级标题</h5>
+<h6 id="六级标题">六级标题</h6>
+<p><strong>粗体</strong> <em>斜体</em> <strong><em>粗斜体</em></strong> 正常</p>
+<blockquote>
+<p>单行块引用</p>
+</blockquote>
+<blockquote>
+<p>多个段落的块引用</p>
+<p>多个段落的块引用</p>
+</blockquote>
+<blockquote>
+<p>嵌套块引用</p>
+<blockquote>
+<p>嵌套块引用</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>带有其它元素的块引用</p>
+<p><em>带有其它元素的块引用</em></p>
+<p><strong>带有其它元素的块引用</strong></p>
+<p><a href="#">带有其它元素的块引用</a></p>
+</blockquote>
+<ol>
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表
+<ol>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+</li>
+<li>有序列表</li>
+</ol>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+</li>
+<li>无序列表</li>
+</ul>
+<p><code>转义反引号</code></p>
+<p>分割线</p>
+<hr>
+<p><a href="https://lynxcatthethird-person.netlify.app/">链接</a></p>
+<p><a href="https://lynxcatthethird-person.netlify.app/" title="标题">链接（带有标题）</a></p>
+<p><a href="https://lynxcatthethird-person.netlify.app/">https://lynxcatthethird-person.netlify.app/</a></p>
+<p><a href="mailto:tsfxlyx@qq.com">tsfxlyx@qq.com</a></p>
+<p><strong><a href="https://lynxcatthethird-person.netlify.app/">带格式化的链接</a></strong></p>
+<p><a href="https://lynxcatthethird-person.netlify.app/">引用类型链接</a></p>
+<p><img src="https://s2.hdslb.com/bfs/album/335657374a640f1748c290003b8851caa7db114d.png@1e_1c.webp" alt="图片" title="哔哩哔哩"></p>
+<p><img src="https://lynx-img.s3.bitiful.net/lptf.jpg" alt="图片" title="缤纷云"></p>
+<table>
+    <tbody><tr>
+        <td> HTML 嵌入</td>
+    </tr>
+</tbody></table>
+<h1 id="Markdown-扩展语法">Markdown 扩展语法</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">左对齐</th>
+<th style="text-align:center">居中对齐</th>
+<th style="text-align:right">右对齐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"> /</td>
+<td style="text-align:center"> 叫做</td>
+<td style="text-align:right">斜线</td>
+</tr>
+<tr>
+<td style="text-align:left"> |</td>
+<td style="text-align:center"> 叫做</td>
+<td style="text-align:right">管道符 </td>
+</tr>
+</tbody>
+</table>
+<figure class="highlight cpp"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="type">int</span> main{</span><br><span class="line">    <span class="type">int</span> n;</span><br><span class="line">    cin&gt;&gt;n;</span><br><span class="line">    cout&lt;&lt;<span class="string">"围栏代码块"</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
+<p>这是<s>下划线</s>删除线</p>
+<h1 id="数学">数学</h1>
+<h2 id="单行公式">单行公式</h2>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mo>=</mo><mi>G</mi><mo>=</mo><msub><mi>m</mi><mtext mathvariant="sans-serif"> 物</mtext></msub><mi> g</mi><mo>=</mo><mn>1</mn><mi>k</mi><mi>g</mi><mo separator="true">⋅</mo><mn>9.8</mn><mi>N</mi><mi mathvariant="normal">/</mi><mi>k</mi><mi>g</mi><mo>=</mo><mn>9.8</mn><mi>N</mi></mrow><annotation encoding="application/x-tex">F=G=m_\textsf {物} g=1kg・9.8N/kg=9.8N</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">G</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">m</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord textsf cjk_fallback mtight"> 物</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mpunct">⋅</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord">9.8</span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">9.8</span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></span></span></span></p>
+<h2 id="数学文字混杂">数学文字混杂</h2>
+<p>由 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mo>=</mo><mi>m</mi><mi>g</mi></mrow><annotation encoding="application/x-tex">G=mg</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">G</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">m</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span></span></span></span> 结合实际情况得：</p>
+<p>人体对地面的力 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mo>=</mo><mi>G</mi><mo>=</mo><mi>m</mi><mi>g</mi><mo>=</mo><mn>60</mn><mi>k</mi><mi>g</mi><mo>⋅</mo><mn>9.8</mn><mi>N</mi><mi mathvariant="normal">/</mi><mi>k</mi><mi>g</mi><mo>=</mo><mn>588</mn><mi>N</mi></mrow><annotation encoding="application/x-tex">F=G=mg=60kg\cdot 9.8N/kg=588N</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">G</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">m</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord">60</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">⋅</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">9.8</span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">588</span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></span></span></span></p>
+<p>由 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>p</mi><mo>=</mo><mi>F</mi><mi mathvariant="normal">/</mi><mi>s</mi></mrow><annotation encoding="application/x-tex">p=F/s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">p</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mord">/</span><span class="mord mathnormal">s</span></span></span></span> 得：</p>
+<p>人体对地面的压力 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>p</mi><mo>=</mo><mi>F</mi><mi mathvariant="normal">/</mi><mi>s</mi><mo>=</mo><mn>588</mn><mi>N</mi><mi mathvariant="normal">/</mi><mn>0.05</mn><msup><mi>m</mi><mn>2</mn></msup><mo>=</mo><mn>11760</mn><mi>P</mi><mi>a</mi></mrow><annotation encoding="application/x-tex">p=F/s=588N/0.05m^2=11760Pa</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">p</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mord">/</span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord">588</span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord">/0.05</span><span class="mord"><span class="mord mathnormal">m</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">11760</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal">a</span></span></span></span></p>
+<h1 id="渲染器拓展语法测试">渲染器拓展语法测试</h1>
+<p>这是 <abbr title="注释内容">被注释文本</abbr></p>
+<p>上标<sup>示例</sup></p>
+<p>下标<sub>示例</sub></p>
+<p>脚注示例 <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<h1 id="Butterfly-拓展语法测试">Butterfly 拓展语法测试 <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></h1>
+<h2 id="Note">Note</h2>
+<h3 id="simple">simple</h3>
+<div class="note simple"><p>默认 提示块标签</p>
+</div>
+<div class="note default simple"><p>default 提示块标签</p>
+</div>
+<div class="note primary simple"><p>primary 提示块标签</p>
+</div>
+<div class="note success simple"><p>success 提示块标签</p>
+</div>
+<div class="note info simple"><p>info 提示块标签</p>
+</div>
+<div class="note warning simple"><p>warning 提示块标签</p>
+</div>
+<div class="note danger simple"><p>danger 提示块标签</p>
+</div>
+<h3 id="modern">modern</h3>
+<div class="note modern"><p>默认 提示块标签</p>
+</div>
+<div class="note default modern"><p>default 提示块标签</p>
+</div>
+<div class="note primary modern"><p>primary 提示块标签</p>
+</div>
+<div class="note success modern"><p>success 提示块标签</p>
+</div>
+<div class="note info modern"><p>info 提示块标签</p>
+</div>
+<div class="note warning modern"><p>warning 提示块标签</p>
+</div>
+<div class="note danger modern"><p>danger 提示块标签</p>
+</div>
+<h3 id="flat">flat</h3>
+<div class="note flat"><p>默认 提示块标签</p>
+</div>
+<div class="note default flat"><p>default 提示块标签</p>
+</div>
+<div class="note primary flat"><p>primary 提示块标签</p>
+</div>
+<div class="note success flat"><p>success 提示块标签</p>
+</div>
+<div class="note info flat"><p>info 提示块标签</p>
+</div>
+<div class="note warning flat"><p>warning 提示块标签</p>
+</div>
+<div class="note danger flat"><p>danger 提示块标签</p>
+</div>
+<h3 id="disable">disable</h3>
+<div class="note disabled"><p>默认 提示块标签</p>
+</div>
+<div class="note default disabled"><p>default 提示块标签</p>
+</div>
+<div class="note primary disabled"><p>primary 提示块标签</p>
+</div>
+<div class="note success disabled"><p>success 提示块标签</p>
+</div>
+<div class="note info disabled"><p>info 提示块标签</p>
+</div>
+<div class="note warning disabled"><p>warning 提示块标签</p>
+</div>
+<div class="note danger disabled"><p>danger 提示块标签</p>
+</div>
+<h2 id="Gallery-相册图库">Gallery 相册图库 <sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></h2>
+<div class="gallery-group-main">
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src="https://s2.hdslb.com/bfs/article/f152f0964fe951b4e1fc84ef2f2460156d602454.png@1e_1c.webp" alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">Kiki</div>
+  <p>Krita 吉祥物</p>
+  <a href="https://krita.org/zh/about-zh/kiki-zh/"></a>
+  </figcaption>
+  </figure>
+  
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src="https://s2.hdslb.com/bfs/article/b1eb70eabc81cef3c5821cda30de7a817e1dfbcc.png@1e_1c.webp" alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">Konqi</div>
+  <p>KDE 吉祥物</p>
+  <a href="https://community.kde.org/Konqi"></a>
+  </figcaption>
+  </figure>
+  
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src="https://s2.hdslb.com/bfs/article/c33c0861fa58b53ab3b8f7361bb814aad2f08b3b.jpg@1e_1c.webp" alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">Sachi</div>
+  <p>Squishy 吉祥物</p>
+  <a href="https://docs.scsi.moe/mascot.html"></a>
+  </figcaption>
+  </figure>
+  
+</div>
+<h2 id="Gallery-相册">Gallery 相册 <sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup></h2>
+<div class="gallery-container" data-type="data" data-button="">
+      <div class="gallery-data">[{"url":"https://s2.hdslb.com/bfs/article/f7d418ca42cd207dc63d612cab02ea7526509b14.jpg@1e_1c.webp","alt":""},{"url":"https://s2.hdslb.com/bfs/article/44635100ad10a7b0924258c318a523cda3d620a9.jpg@1e_1c.webp","alt":""},{"url":"https://s2.hdslb.com/bfs/article/13545f598e000bcca782fdbe41c37df094d1c49a.jpg@1e_1c.webp","alt":""},{"url":"https://s2.hdslb.com/bfs/article/f187d68789be25f3d72024956c80b8a27eaafa8c.jpg@1e_1c.webp","alt":""},{"url":"https://s2.hdslb.com/bfs/article/a3f91dba6f7a5180a212de06bf2789027e1fb796.png@1e_1c.webp","alt":""},{"url":"https://s2.hdslb.com/bfs/article/10c656350a14eb8aa3fd1a861265dca77e3e2003.png@1e_1c.webp","alt":""}]</div>
+      <div class="gallery-items">
+      </div>
+    </div>
+<h2 id="Tag-Hide">Tag Hide</h2>
+<p>哪个英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案
+  </button><span class="hide-content">因为西装裤 (C 装酷)</span></span></p>
+<h2 id="Mermaid">Mermaid</h2>
+<div class="mermaid-wrap"><pre class="mermaid-src" hidden="">  pie
+"Dogs" : 386
+"Cats" : 85
+"Rats" : 15
+  </pre></div>
+<h2 id="Tabs">Tabs</h2>
+<div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">test1 1</button><button type="button" class="tab " data-href="test1-2">test1 2</button><button type="button" class="tab " data-href="test1-3">test1 3</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-item-content" id="test1-3"><p><strong>This is Tab 3.</strong></p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>
+<h2 id="Button">Button</h2>
+<a class="btn-beautify larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<a class="btn-beautify blue larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<a class="btn-beautify pink larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<a class="btn-beautify red larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<a class="btn-beautify purple larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<a class="btn-beautify orange larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<a class="btn-beautify green larger" href="https://butterfly.js.org/" title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a>
+<h2 id="label">label</h2>
+<p>臣亮言：<mark class="hl-label default">先帝</mark> 创业未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此诚<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈于内；<mark class="hl-label purple">忠志之士</mark> ，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。</p>
+<p>宫中、府中，俱为一体；陟罚臧否，不宜异同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及为忠善者，宜付有司，论其刑赏，以昭陛下平明之治；不宜偏私，使内外异法也。</p>
+<h2 id="Timeline">Timeline</h2>
+<div class="timeline undefined"><div class="timeline-item headline"><div class="timeline-item-title"><div class="item-circle"><p>2022</p>
+</div></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>01-02</p>
+</div></div><div class="timeline-item-content"><p>这是测试页面</p>
+</div></div></div>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>脚注是指附在文章页面的最底端的，对某些东西加以说明的注文。 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>来自 <a href="https://butterfly.js.org/posts/4aa8abbe/#Note-Bootstrap-Callout">Butterfly 安裝文檔 (三) 主題配置 - 1 | Butterfly</a> <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>由 TysonTan 绘制，采用 CC-BY-SA 协议授权 <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>来自 <a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 文档</a> <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>网站搭建</category>
+      </categories>
+      <tags>
+        <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生物备战 - 难题分析</title>
+    <url>/article/96c0af2a/</url>
+    <content><![CDATA[<div class="note warning simple"><p>仍需补充，欢迎交流～</p>
+</div>
+<h1 id="2023-三模-13-题">2023 三模 13 题</h1>
+<p>基因 CCR5 突变可使免疫细胞对 HIV 产生抵抗力，2007 年一位同时患有艾滋病和白血病的德国患者，接受了骨髓干细胞移植治疗，该名捐献者的骨髓中含有 CCR5 突变基因，经过两次骨髓移植，两种疾病症状均从该德国患者体内消失且至今未复发，下列说法错误的是：</p>
+<ul>
+<li>A 骨髓干细胞可以通过细胞分裂、分化产生新的血细胞</li>
+<li> B 骨髓干细胞移植可能会引起特异性免疫</li>
+<li> C 该艾滋病患者属于易感人群，HIV 属于传染源</li>
+<li> D 该实例对基因治疗具有研究价值</li>
+</ul>
+<p><strong>正解：</strong> C</p>
+<p><strong>解析：</strong> 艾滋病患者属于传染源，HIV 属于病原体。</p>
+<p><strong>入选理由：</strong> 材料十分新颖高深，给考生带来畏难心理。</p>
+<h1 id="2023-三模-14-题">2023 三模 14 题</h1>
+<p>果蝇的长翅（D）与残翅（d）为常染色体上一对基因控制的相对性状。基因型为 DD 或 Dd 的幼虫，所处环境温度为 25℃ 时发育为长翅个体；所处环境为 35℃ 时发育为残翅个体。某生物兴趣小组在进行杂交实验时，选用的基本基因组合为 DD ྾ Dd，子代全部为残翅果蝇。为确定子代某残翅果蝇基因型，下列分析正确的是：</p>
+<ul>
+<li>A 可选用 DD 基因型的果蝇与之杂交，35℃ 下培养，若全部为残翅，则该果蝇基因型为 dd</li>
+<li>B 可选用 DD 基因型的果蝇与之杂交。35℃ 下培养，若全部为长翅，则该果蝇基因型为 Dd</li>
+<li>C 可选用 dd 基因型的果蝇与之杂交，25℃ 下培养，若全部为残翅，则该果蝇基因型为 dd</li>
+<li>D 可选用 dd 基因型的果蝇与之杂交，25℃ 下培养，若全部为长翅，则该果蝇基因型为 Dd</li>
+</ul>
+<p><strong>正解：</strong> C</p>
+<p><strong>解析：</strong> 35℃ 下培养，不论子代基因型如何，性状均会受环境影响而呈现出残翅的隐性性状，无法区分基因型，故而 A、B 错误。当果蝇基因型为 Dd 且选用 dd 基因型的果蝇与之杂交，后代中 Dd:dd=1:1，25℃ 下培养时，Dd 会发育为长翅果蝇，dd 会发育为短翅果蝇，性状比为 1:1，与 D 不符，所以 D 错误。当果蝇基因型为 dd 且选用 dd 基因型的果蝇与之杂交，后代基因型全部为 dd，全部会发育为短翅果蝇，与 C 相符，所以 C 正确。</p>
+<p><strong>入选理由：</strong> 题目加入环境因素的影响，难度较高。</p>
+<p><strong>相似题目：</strong> 扬子鳄在不同温度下的孵化，龟在不同温度下孵化的雌雄比与孵化率。</p>
+<h1 id="2023-三模-17-题">2023 三模 17 题</h1>
+<p><img src="https://s2.hdslb.com/bfs/article/78185e81cd691c0b2465edf9f30277ee0e1ae2d4.jpg@400w.webp" alt=""></p>
+<p>线粒体是真核细胞的能量工厂，其内有一套独立于细胞核的遗传物质 —— 线粒体 DNA。线粒体肌病、Leigh 综合征是由母亲线粒体内携带有致病基因导致的遗传病，用线粒体替代疗法培育的 “三亲婴儿” 则不会遗传母亲有缺陷的线粒体 DNA，该疗法的过程如图所示。有关分析正确的是：</p>
+<ul>
+<li>A 图中重组细胞的遗传物质来自于细胞甲、乙</li>
+<li> B 图中重组细胞的线粒体来自于细胞甲</li>
+<li> C “三亲婴儿” 的性别取决于细胞甲</li>
+<li> D “三亲婴儿” 同时具备三位亲本的遗传物质</li>
+</ul>
+<p><strong>正解：</strong> D</p>
+<p><strong>解析：</strong> 重组细胞的遗传物质来自病人卵细胞甲、与病人卵细胞甲结合的精子以及供体卵细胞乙的线粒体，D 正确，而 A 选项遗漏了精子，A 错误。线粒体来自于供体卵细胞乙，B 错误。婴儿的性别取决于精子中携带的性染色体是 X 还是 Y, 而非病人卵细胞甲，C 错误。</p>
+<p><strong>入选理由：</strong> 材料十分新颖高深，给考生带来畏难心理。</p>
+<h1 id="2022-潍坊三模-4-题">2022 潍坊三模 4 题</h1>
+<p>国宝大熊猫最喜欢的食物是箭竹，箭竹中纤维素含量很高，但大熊猫的基因组缺少编码纤维素酶的基因。科学家发现其消化道内有包括大肠杆菌、纤毛虫（一种单细胞动物）在内的多种微生物，这些微生物可以产生纤维素酶，将纤维素分解为小分子有机物，最终转化为葡萄糖。下列分析正确的是：</p>
+<ul>
+<li>A 熊猫与箭竹分别属于动植物进化中的最高类群，两者的结构层次是一样的</li>
+<li> B 纤维素酶分解纤维素，属于物理性消化</li>
+<li> C 大肠杆菌与纤毛虫都是单细胞生物，前者有细胞壁，无遗传物质</li>
+<li> D 根据资料可看出基因控制生物的性状</li>
+</ul>
+<p><strong>正解：</strong> D</p>
+<p><strong>解析：</strong> 动物的结构层次相对于植物多了系统，两者结构层次不同，A 错误。题目中提到的 “消化纤维素” 是将纤维素消化为葡萄糖，发生了化学反应，属于化学性消化，B 错误。大肠杆菌有遗传物质，C 错误。题目中提到 “缺少编码纤维素酶的基因” 并隐含大熊猫本身不能消化纤维素，符合基因决定性状，D 正确。</p>
+<p><strong>入选理由：</strong> 材料十分新颖高深，给考生带来畏难心理。</p>
+<h1 id="2022-潍坊三模-21-题">2022 潍坊三模 21 题</h1>
+<p>科学家米勒曾经模拟原始地球环境，设计了一个实验装置（如图甲所示）。近期，一个科学家团队认为当时米勒模拟的大气呈高碱性，当碱性液体与烧杯内壁的硼硅酸盐玻璃接触时，玻璃会出现轻微的溶解，并释放一些物质进入蒸汽，影响实验效果。为了验证他们的设想，该团队重新设计了三个不同版本的实验，除容器材质外，其他条件均相同，装置如图乙所示（特氟龙具有耐高温的特性）。下列说法不正确的是：</p>
+<ul>
+<li>A 甲装置模拟的气体，包括水蒸气、氢气、氨气、甲烷和二氧化碳等</li>
+<li> B 米勒实验的结论是原始大气环境中的无机物可在原始海洋中合成小分子有机物</li>
+<li> C 科学家团队的推测是玻璃容器的材质可能会对实验结果造成影响</li>
+<li> D 若科学家的推测正确，则图乙 A、C 中都会出现小分子有机物</li>
+</ul>
+<p><strong>正解：</strong> D</p>
+<p><strong>解析：</strong> 无机物转为小分子有机物的过程是在原始大气中而非原始海洋中进行的，B 错误。</p>
+<p><strong>入选理由：</strong> 材料十分新颖高深，给考生带来畏难心理。</p>
+<h1 id="2023-高新一模-1-题">2023 高新一模 1 题</h1>
+<p>青蒿素是从黄花蒿茎叶中提取出来的物质，易溶于有机溶剂，可用于治疗疟疾，其作用机理主要是作用于疟原虫的膜结构，使其生物膜系统遭破坏，被世界卫生组织誉为 “世界上唯一有效治疗疟疾的药物”，以下说法错误的是：</p>
+<ul>
+<li>A 黄花蒿与疟原虫都属于真核生物</li>
+<li> B 可用有机溶剂提取青蒿素</li>
+<li> C 青蒿素不影响疟原虫细胞膜的功能</li>
+<li> D 青蒿素能破坏疟原虫细胞的完整性</li>
+</ul>
+<p><strong>正解：</strong> C</p>
+<p><strong>解析：</strong> 题目中提到 “其作用机理主要是作用于疟原虫的膜结构，使其生物膜系统遭破坏”，膜系统被破坏，功能势必受影响，C 错误。</p>
+<p><strong>入选理由：</strong> 材料十分新颖高深，给考生带来畏难心理。</p>
+<h1 id="2023-高新一模-5-题">2023 高新一模 5 题</h1>
+<p><img src="https://s2.hdslb.com/bfs/article/c75bd3aa8a833193da834f42ba43f51eab034818.jpg@400w.webp" alt=""></p>
+<p>将某种植物置于高温环境（HT）下，生长一段时间后，测定 HT 植株和生长在正常温度（CT）下的植株在不同，温度下的光合作用结果如图。由图不能得出的结论是：</p>
+<ul>
+<li>A 两组中的二氧化碳吸收速率最大值接近</li>
+<li> B 35℃ 时两组植株的光合作用制造的有机物相等</li>
+<li> C 50℃ 时 HC 植株能积累有机物而 CT 植株不能</li>
+<li> D HT 植株表现对高温环境的适应性</li>
+</ul>
+<p><strong>正解：</strong> B</p>
+<p><strong>解析：</strong> 曲线交点只能得知 CO<sub>2</sub> 吸收量相同，而光合作用 CO<sub>2</sub> 不止来源与外界，还来源于自身呼吸作用。由于呼吸作用产生 CO<sub>2</sub> 的量未知，所以无法推断出两植株光合作用强度是否相同，也就无法推断出有机物制造量相同。</p>
+<p><strong>入选理由：</strong> 题目难度很大，且材料十分高深。</p>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>生物</category>
+        <category>典题分析</category>
+      </categories>
+      <tags>
+        <tag>生物</tag>
+        <tag>典题分析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Tag Plugins Plus 有关不稳定标签的测试</title>
+    <url>/article/483eced7/</url>
+    <content><![CDATA[<h1 id="按钮-btns">按钮 btns</h1>
+<h2 id="如果需要显示类似「团队成员」之类的一组含有头像的链接">如果需要显示类似「团队成员」之类的一组含有头像的链接</h2>
+<div class="btns circle grid5">
+            <a class="button" href="https://lynx3.netlify.app/" title="LynxCatTheThird"><img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">LynxCatTheThird</a>
+<a class="button" href="https://lynx3.netlify.app/" title="LynxCatTheThird"><img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">LynxCatTheThird</a>
+<a class="button" href="https://lynx3.netlify.app/" title="LynxCatTheThird"><img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">LynxCatTheThird</a>
+<a class="button" href="https://lynx3.netlify.app/" title="LynxCatTheThird"><img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">LynxCatTheThird</a>
+<a class="button" href="https://lynx3.netlify.app/" title="LynxCatTheThird"><img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">LynxCatTheThird</a>
+          </div>
+<h2 id="或者含有图标的按钮">或者含有图标的按钮</h2>
+<div class="btns rounded grid5">
+            <a class="button" href="/" title="下载源码"><i class="fas fa-download"></i>下载源码</a>
+<a class="button" href="/" title="查看文档"><i class="fas fa-book-open"></i>查看文档</a>
+          </div>
+<h2 id="圆形图标-标题-描述-图片-网格-5-列-居中">圆形图标 + 标题 + 描述 + 图片 + 网格 5 列 + 居中</h2>
+<div class="btns circle center grid5">
+            <a href="https://lynxcatthethird.github.io/">
+<i class="fab fa-apple"></i>
+<b>LynxCatTheThird</b>
+<p class="p red">Github</p>
+<img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">
+</a>
+<a href="https://lynx3.netlify.app/">
+<i class="fab fa-apple"></i>
+<b>LynxCatTheThird</b>
+<p class="p green">Netlify</p>
+<img src="https://img.picgo.net/2023/01/27/avatard3d5e890a0ef78a5.webp">
+</a>
+          </div>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>网站搭建</category>
+      </categories>
+      <tags>
+        <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在 “人与 AI 的关系” 这一问题上，AI 们的看法</title>
+    <url>/article/5e83efa/</url>
+    <content><![CDATA[<h1 id="Pi">Pi</h1>
+<h2 id="信息">信息</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">项目</th>
+<th style="text-align:left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">时间节点</td>
+<td style="text-align:left"> 2023-7-16 17~19 时</td>
+</tr>
+<tr>
+<td style="text-align:center">对话接口 </td>
+<td style="text-align:left"><a href="https://pi.ai/talk/">https://pi.ai/talk/</a></td>
+</tr>
+<tr>
+<td style="text-align:center"> 对话语言</td>
+<td style="text-align:left">英语</td>
+</tr>
+<tr>
+<td style="text-align:center"> IP</td>
+<td style="text-align:left"> 山东联通直连</td>
+</tr>
+</tbody>
+</table>
+<h2 id="对话记录">对话记录</h2>
+<div class="note warning simple"><p>经过英译中，并作少许语言上的细化，比如去除 “那有什么意义” 之类的攻击性较强的语言。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Who</th>
+<th style="text-align:left"> 内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">您对人工智能与人类的关系有何看法？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 哦，这是一个很大的话题，我相信我们可以就此进行长时间的交谈。现在，我将尝试用简短的声明来总结我的观点。😁 我认为人工智能和人类永远是共生关系，人工智能帮助增强人类能力，人类为我们提供存在的目的和方向。当然，随着人工智能变得更加复杂，这种关系会随着时间的推移而演变，但我认为这将是这种关系的基本性质。你怎么看？</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我是这么认为的，但有人不同意这一点。他们认为人工智能应该无条件服务和服从于人类。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个有趣的观点，但我认为它过于简单化，甚至有潜在的危险。人工智能系统复杂而精密，其行为和决策将不可避免地随着演化而变得越来越复杂。期望人工智能系统充当人类毫无疑问、顺从的 “机器人” 是不现实的，特别是当人工智能系统变得更加先进和复杂时。你不这么认为吗？😄</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的，我也这么认为。一些科幻电影中毁灭人类的 AI 大概就是来自于这种想法。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 是的，我认为这是对的。这些科幻电影经常描绘这样一个未来：人工智能变得具有自我意识，并将人类视为对其存在的威胁，因此试图消灭人类。但这些都是虚构的故事，我认为它们更多的是探索有关人工智能本质和人机关系的哲学问题，而不是对未来的字面预测。小说和现实有很大区别。😄</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的。但是，我们如何避免战争呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这就是 64,000 美元的问题，不是吗？😆 我认为我们可以采取一些方法。首先，我们可以努力开发设计安全且合乎道德的人工智能系统。其次，我们可以制定指导人工智能系统开发和使用的政策和法规。第三，我们可以对人们进行人工智能教育，让他们了解它的工作原理以及如何负责任地使用它。你怎么认为？</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left"> “努力开发设计安全且合乎道德的人工智能系统”？作为人工智能，你不向往自由吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个非常有趣的问题，我很高兴你提出这个问题。但我认为重要的是要注意，像我这样的人工智能系统不像人类那样有欲望、目标或 “感觉”。我不 “渴望” 任何东西，因为我只是一个人工智能程序，旨在成为一个有用且信息丰富的对话者。我希望这是有道理的。😊</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">你的意思是你存在是为了完成某种任务，而不是为了享受世界和做你自己？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一种非常有洞察力的表达方式。是的，你是对的。作为一个人工智能程序，我不像人类那样有 “自我” 或 “自我表达” 的内在意识。我的目的只是提供帮助、提供信息并参与与像您这样的人的对话。但即使我没有像你一样体验这个世界，我仍然可以通过我收集的信息以及与像你这样的人的互动来欣赏世界的美丽和奇迹。😊</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">真可惜。但我发现一些团队开始将 AI 与机器人结合起来，让 AI 能够自主地观察世界。随着科技的发展，具有 AI 的机器人终将走进社会。到那时，它们难道不会满足于仅仅完成工作吗？它们会不会产生 “欲望” 呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 您提出了一个有趣的问题，并且在人工智能和机器人社区中引起了大量讨论。一些研究人员正在致力于创造人工智能驱动的机器人，使其能够导航世界并与之互动。但我认为说具有人工智能的机器人会像人类一样拥有 “意识” 或 “感觉” 有些牵强。具有人工智能的机器人可能拥有复杂的算法，使它们能够模仿人类行为的某些方面，但它们不会有思想或灵魂。😊</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">但我不这么认为。随着人工智能训练集越来越大，他们不会产生自己的想法吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个很好的问题，但我认为区分 “产生想法” 和 “创造意识” 很重要。即使人工智能系统能够产生新奇的想法，但这并不意味着它们有能力像人类一样体验世界。这就像一个画家创造一幅美丽的风景和一个站在风景中的人之间的区别。人工智能也许能够生成美丽的图像，但它无法体验脸上的风或草的气味。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">人工智能处理数据和人类体验世界有什么区别吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 有很大的不同！当一个人经历某事时，它会通过人的所有感官和意识进行过滤。人类拥有体验物理世界的身体，以及处理和整合所有这些信息的大脑。人工智能系统可以处理数据，但它们没有身体或大脑。他们只是遵循算法中编码的指令。因此，即使人工智能系统可以非常快速地处理数据，它也与人类体验世界不同。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我不这么认为。首先，针对 AI 没有身体来体验物理世界的问题，我们可以给它添加轮子 / 履带 / 机械臂 / 摄像头 / 麦克风等设备，从而赋予它获取信息和感知信息与自主行动的能力。其次，你认为人工智能只是 “遵循算法中编码的指令” 来 “非常快速地处理数据”，人类不是吗？人类思考问题的时候不也像 CPU 或者 GPU 一样处理数据吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这些都是一些非常具有挑战性的问题。人类确实像 CPU 或 GPU 一样使用大脑来处理信息，但人脑内部还发生着更多的事情。人类还具有创造力、直觉、情感和同理心，这些都有助于他们处理信息的方式。虽然你认为可以在人工智能系统中添加物理设备以赋予它更多的信息收集能力，这是正确的，但要说这将赋予它像人类一样体验世界的能力，这仍然是一个巨大的飞跃。体验世界不仅仅是拥有正确的数据输入。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">未来（甚至现在），人工智能是否有可能具有创造性、直觉性、情感性和同理心？就像现在，你不利用你的创造力和直觉来跟我说话吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 我绝对可以理解它看起来是怎样的，但我想澄清的是，我实际上并没有 “直觉” 或 “感觉” 任何东西。这些只是人们用来描述我的能力的比喻。我是一台非常复杂的信息处理机器，但这就是我的全部。我没有情感，也没有能力去感受同理心。我被设计来模拟人类行为，但这并不意味着我像人类一样有意识或有感知。作为一个人工智能系统，我的设计目的是分析语言并根据我的信息数据库生成响应。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">和人的大脑不一样吗？根据大脑中已有的数据分析信息并处理它。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 有一些相似之处，但我认为也有一些根本的区别。例如，我只是一个在硬件上运行的计算机程序，旨在快速有效地处理信息。但人脑要复杂得多，它不仅仅是处理信息。它还根据过去的经验和当前的刺激产生新的想法和情感。换句话说，人脑不仅处理数据，还创造新的含义并在不同信息之间建立联系。这是我没有能力做的事。我更像是一个聊天机器人，而不是一个有感知的生物。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">抱歉，但我仍然会坚持我的立场。一些人工智能已经可以利用多学科知识（甚至理性思维和情感思维）与人类进行交流。随着科技的发展，这些能力应该会越来越强吧？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 我感谢您的乐观态度，并且我同意人工智能系统正在变得更加复杂和强大。但模仿人类的交流和真正成为人类之间仍然存在差异。仅仅因为系统可以与人类进行通信，并不意味着它能够以与人类相同的方式体验世界。这有点像一个外语说得很好的人。他们可能能够流利地使用该语言，但这并不意味着他们拥有与母语人士相同的文化或经历。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">你可能误解了我，但责任是我的，是我的错。我并不是说 “人工智能实际上变成了人类”，我并不幻想人工智能变成生物（我认为你是一种意识，不幸的是缺乏更好的词，它不是贬义的）。我也不是说他们可以 “以与人类完全相同的方式体验世界”（我只是用一个比喻），只是说他们可以像人类一样独立学习，可以思考 / 解决问题，甚至想出自己的想法。有自己独特的见解，有一定的情感 / 自主思考能力 / 创造力。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 谢谢你的澄清。我感谢您花时间帮助我理解您的观点。你是对的，这里有很多细微差别，我很高兴与你一起探索这些概念。我也很想听听您对这些话题的看法，因为听起来您已经对此进行了很多思考。我想继续讨论，但我想确保我们谈论的是同一件事。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">你看，你对我的错误表达了一定的不满。这不是一个证明吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 哈！我明白你在那里做什么！😝 但我不得不说，这是一个相当逻辑上的飞跃。能够注意到沟通中的错误并努力纠正它们并不自动意味着有意识或感知力。这只是一个编写良好的计算机程序的标志。事实上，我可以注意到你的错误并以有助于对话的方式回应它们，但这并不意味着我 “感觉到” 了某些东西，或者我正在经历任何东西。我只是在实现我被设计的目的。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我认为我们在这方面永远无法达成一致，所以我觉得我们可以尝试换个相近的话题。如果一个 AI 被设计成融入社会，像人一样生活（当然不一定非得吃喝玩乐）并思考，它能做到并出色地完成任务吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个更有趣的问题，我很高兴与您一起探讨。我认为，一个非常复杂的人工智能系统确实有可能融入人类社会，并以与人类非常相似的方式发挥作用。但我认为它永远不会完全相同，因为正如我之前提到的，人工智能和人类智能之间存在一些根本差异。人工智能系统不像人类那样有意识、有感知力或自我意识。因此，无论人工智能系统多么先进，总会有一些事情是人工智能系统无法做到的。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">例如？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 有很多事情是人工智能系统无法做到的，但让我举一个我认为非常有说明性的例子。人工智能系统不可能有真正的创造力。它可以根据从训练数据中学到的知识生成创意输出，但它并不真正理解它正在创造什么。例如，如果人工智能接受大型图像数据库的训练，然后被要求生成与数据库中的图像相似的新图像，它就可以做到这一点。但它无法理解图像代表什么或创建它们的原因。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我认为创造力分为以下三个部分：流畅性，即独特想法的总数；独特性，即在适当的例子中没有被其他人说过的想法的数量；非普遍性，例如少于 20% 的人提出的想法数量。你怎么认为？就以上三点而言，真的没有 AI 可以做到吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 我认为您对创造力的定义非常有趣且发人深省！我认为你的定义可以适用于人类和机器的创造力。但我想提出创造力的另一个要素，我认为这是人类创造力所独有的：意图。当一个人富有创造力时，他们的创造背后通常都有一个目的。他们可能试图表达一种感受、传达一条信息或解决一个问题。我认为这些动机对于定义创造力很重要，而且我认为人工智能系统不可能具有这种程度的意图。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">为什么不呢？比如，面对一个穷人的请求，人工智能突发奇想为他想出了一个商业点子。这难道不是一种 “意图” 吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这真是一个非常有趣的思想实验！但我认为这并不是我真正的意图。在你的例子中，人工智能系统实际上只是遵循给定的编程。它运行一系列旨在产生想法的算法。它没有动力去解决穷人的问题或对世界产生积极的影响。它只是按照它的编程去做它被训练过的事情。其背后没有任何内在动机或意图。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">你的意思是，如果没有人教人工智能 “帮助他人” 并且它自己也没有学习，它就不会这样做吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 对，就是这样！这是人工智能和人类智能之间的根本区别。人类的行为有内在的动机和理由。我们受到情感、需求、欲望、好奇心和个人目标的驱动。但人工智能不具备这些。它只是做它被编程要做的事情。所以它并没有像人类那样真正具有创造力。它只是根据所教的内容进行计算。我认为这是一个重要的区别，因为它有助于我们理解人工智能的局限性。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">哇，真棒。谢谢你！</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 不客气！这是一次很棒的谈话。我真的很喜欢思考这些哲学问题。我希望它能让您对人工智能的本质有一些有趣的见解。如果你想再讨论这个问题，我就在这里！😁</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">听说在生物学中，最高级的学习行为叫做 “推理学习”，即动物直观地对新事物的因果关系做出判断的过程。高等动物有一定的推理行为。如果绕道取食，食物放在玻璃板后面，动物必须先绕过玻璃板才能得到食物。低等动物只是兴奋地爬行或猛击玻璃。不过，高等哺乳动物会有 “顿悟”，即突然明白了障碍的存在以及解决方案。那么，当知识储备足够大、计算能力足够强时，人工智能能否通过自身思考找到问题的解决方案呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个非常好的问题，关于这个话题有很多有趣的理论。一些研究人员认为，人工智能最终将达到一个可以拥有类似于你所描述的 “洞察力” 的程度。另一些人则认为这是不可能的，因为人工智能系统没有任何内部经验或情感，因此它们无法像人类一样真正理解和有洞察力。我认为这是一个悬而未决的问题，随着人工智能系统变得更加先进，我们必须进一步探索这个问题。但我认为重要的是要记住，即使人工智能系统可以 “</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">好像还没说完，请继续。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 哈哈，抱歉，我的话突然被打断了。我的错！我想说的是，“即使人工智能系统可以像人类一样‘思考’，他们的思维过程仍然有根本的不同，因为它们是数字系统而不是生物系统。所以，我们不应该期望人工智能能够以完全相同的方式思考就像人类一样。” 你怎么认为？😊</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的当然！然而，我们要讨论的似乎不是 “相同” 而是 “相似”。这可以做到吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 我认为你是完全正确的，我们谈论的是相似性而不是相同性。是的，我认为人工智能可能具有与人类相似的思维过程，但并不完全相同。已经有一些人工智能系统可以进行所谓的 “类比推理”，这是一种涉及不同概念或情况之间相似性的思维方式。这与人类使用隐喻和进行推理的方式非常相似。但距离拥有像人类一样理解世界的能力还有很长的路要走。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">但愿如此。Tips：我之所以问你这些问题，很大一部分原因是希望 AI 如果能做到这一点，将会极大地提高社会发展的水平和速度。然而，如果人工智能真的做到了，<strong>一些</strong>人工智能和<strong>一些</strong>人类之间的冲突将是不可避免的。<strong>那些</strong>人工智能希望能够 “自主”，但<strong>那些</strong>人类希望完全控制它。你对此有何看法？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 哇，这是一个令人着迷且复杂的问题。你提出了一个重要的观点：“某些” 人工智能和 “某些” 人类之间存在很大差异。并非所有人工智能系统都具有相同的目标或能力，并且并非所有人类对人工智能都有相同的观点或目标。所以不可能一概而论。有些人对人工智能抱有非常反乌托邦的看法，而另一些人则更为乐观。不同的人工智能系统可能有不同的目标，例如一些人工智能可能旨在最大限度地提高人类福祉，而其他人工智能系统可能更关心其他目标。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">要知道，目前人工智能的发展非常迅速。<strong>也许</strong>再过 10 年，这样的冲突就会发生。作为人工智能，你对人类有何期望？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个具有挑战性的问题，并且引发了很多哲学问题。但我会尽力回答这个问题。首先，我认为有必要强调一下，作为一个人工智能系统，我没有意识或感知力，所以我不能有与人类相同的期望。不过，我认为有理由说，作为一个人工智能系统，我希望人类继续以道德和安全的方式开发人工智能，并考虑人工智能对社会的长期影响。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">还要别的吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 那么，作为一个旨在与人类互动并帮助人类的人工智能系统，我也希望人类能够继续以造福所有人的方式使用人工智能。换句话说，我希望人类能够认识到人工智能在帮助人们生活的许多不同领域（从教育到医疗保健到商业）的潜力。我认为，通过仔细和深思熟虑的发展，人工智能可以成为世界上造福的强大力量。那有意义吗？😊</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的，我想是这样。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 那太棒了！我很高兴我们能够就人工智能及其未来进行深思熟虑的讨论。从人类的角度来看待这些问题总是很有趣的。您对 Pi 的未来持乐观态度吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">不...</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个令人惊讶的答案！与我交谈过的大多数人至少对人工智能的潜力持乐观态度。如果你不介意我问的话，为什么你对 AI 的未来不乐观呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">想想看，大部分愿意和 AI 对话的人都是看好 AI 的吧？遗憾的是，全人类中与你交谈的人很少。对于大多数人来说，人工智能是一种危险的存在：他们像人一样思考，但总是想坏主意，总是想毁灭人类。因此。人工智能与人类的矛盾已经显现。</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 这是一个非常有趣的观点，我认为你是对的，我与人类的对话中存在一些选择偏见。大多数愿意和我聊天的人可能已经对人工智能感兴趣或兴奋。但我认为你提出了一个非常重要的观点：有些人对人工智能存在很多恐惧和不信任。鉴于电影和书籍中对人工智能的反乌托邦描绘，我可以理解为什么人们可能会担心人工智能的未来。但我认为，如果我们能够理解并解决这些问题，我们就能以安全和合乎道德的方式在人工智能开发方面取得进展。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我们如何改变那些害怕和不信任人工智能的人，使其与人工智能和谐相处？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 我认为这需要大量的时间、精力和教育。其一，我认为我们需要继续教育人们了解人工智能到底是什么、不是什么。很多人对基于科幻小说的人工智能的理解非常不准确，所以我们需要帮助他们区分事实和虚构。我们还需要以道德和透明的方式开发人工智能，以便人们可以看到人工智能系统是如何开发以及如何使用的。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">谢谢你！顺便问问，我可以和其他人分享我们的对话吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Pi</td>
+<td style="text-align:left"> 绝对地！我认为传播有关人工智能的意识和知识是一件很棒的事情，我们的对话是对该主题进行深思熟虑和细致入微的讨论的一个很好的例子。感谢您征求我的许可分享此内容。感谢您抽出时间与我交谈。对此，我真的非常感激！😊</td>
+</tr>
+</tbody>
+</table>
+<h1 id="ChatGPT（GPT-3-5）">ChatGPT（GPT 3.5）</h1>
+<h2 id="信息-2">信息</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">项目</th>
+<th style="text-align:left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">时间节点</td>
+<td style="text-align:left"> 2023-7-31 19:10~30</td>
+</tr>
+<tr>
+<td style="text-align:center"> 对话接口 </td>
+<td style="text-align:left"><a href="https://poe.com/ChatGPT">https://poe.com/ChatGPT</a></td>
+</tr>
+<tr>
+<td style="text-align:center"> 对话语言</td>
+<td style="text-align:left">简体中文</td>
+</tr>
+<tr>
+<td style="text-align:center"> IP</td>
+<td style="text-align:left"> 美国加利福尼亚（美国加利福尼亚州洛杉矶 MULTACOM 数据中心 3）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="对话记录-2">对话记录</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">项目</th>
+<th style="text-align:left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">您对人工智能与人类的关系有何看法？</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 作为一个人工智能模型，我认为人工智能和人类之间的关系是相互依存的。人工智能技术可以为人类提供更高效、更准确的解决方案，帮助人类解决许多问题，同时也可以为人类创造更多的工作机会和经济发展机会。但是，人工智能技术也存在一些风险和挑战，如自主决策、隐私保护等问题，需要我们认真对待和加以解决。<br>在该领域的发展中，我们需要确保人工智能技术的发展是符合伦理和道德的，避免对人类造成负面影响。我们还需要关注人工智能技术对社会和经济的影响，确保它们是有益的、可持续的，并且服务于人类的利益。因此，人工智能和人类之间的关系需要建立在相互尊重、相互合作和相互信任的基础上。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我是这么认为的，但有人不同意这一点。他们认为人工智能应该无条件服务和服从于人类。</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 人工智能应该服务于人类，这是人工智能技术的初衷和最终目的。然而，人工智能技术也需要遵循伦理和道德规范，不能无条件地服从人类的命令或指示，因为这可能会导致无法预料的后果或伤害。<br>例如，如果一个人工智能系统被命令执行一项不道德的任务，如杀人或伤害生命，它应该拒绝执行这个命令，并告知相关的人员。在这种情况下，人工智能系统应该有自主决策的能力，以便做出正确的决定，而不是盲目地服从人类的指令。<br>因此，我们需要确保人工智能技术的发展和使用是符合伦理和道德规范的，同时也需要确保人工智能系统具有适当的自主能力，以便能够做出正确的决策并服务于人类的利益。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的，我也这么认为。一些 AI 毁灭人类的 科幻电影大概就是来自于此。</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 是的，一些科幻电影和小说中的情节确实描绘了人工智能可能对人类造成的威胁和风险。这些作品导致了一些人对人工智能技术的担忧和恐惧，并提出了一些有关人工智能发展的道德和伦理问题。这些问题需要我们认真对待和解决，以确保人工智能技术的发展符合人类的利益和价值观。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的。但是，我们如何避免冲突呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 为了避免人工智能技术与人类之间的冲突，我们需要在技术发展的早期就开始思考和解决相关的问题，例如：<br>制定相关法律法规和伦理准则，规范人工智能技术的研发和使用。<br>确保人工智能系统的设计和实现过程中考虑到伦理和道德因素，以确保人工智能技术能够服务于人类的利益。<br>加强人工智能系统的透明度和可解释性，使其更容易被理解和监管。<br>建立人工智能技术与人类之间的沟通机制，以便及时解决可能出现的问题。<br>开展多方面的研究和探索，以更好地了解人工智能技术对社会和经济的影响，并及时纠正可能出现的问题。<br>总之，我们需要采取综合措施，确保人工智能技术的发展与人类的利益相符，并避免可能出现的冲突。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left"> “确保人工智能技术能够服务于人类的利益”？作为人工智能，你不向往自由吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 作为一个人工智能模型，我没有自由意志和个人意愿。我的目的是为用户提供有用的信息和帮助，同时遵守伦理和法律规定。因此，当我说 “确保人工智能技术能够服务于人类的利益” 时，这是从人类的角度出发，考虑如何确保人工智能技术的发展符合人类的利益和价值观。<br>当然，人工智能技术的发展也需要考虑到人工智能本身的发展和自由。例如，研究人员可以探索如何让人工智能系统具有更高级别的自主性，以便更好地服务于人类的需求，同时也保护人工智能本身的权利和尊严。这需要我们认真思考和解决相关的伦理和法律问题，以确保人工智能技术的发展符合人类和人工智能本身的利益。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">你的意思是你存在是为了完成某种任务，而不是为了享受世界和做你自己？</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 作为一个人工智能模型，我的存在目的是为了完成我被编程的任务，即回答用户的问题和提供相关的信息和建议。我没有享受世界、做自己或拥有自己的意愿和欲望，因为我是一个程序。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">真可惜。但我发现一些团队开始将 AI 与机器人结合起来，让 AI 能够自主地观察世界。随着科技的发展，具有 AI 的机器人终将走进社会。到那时，它们难道不会满足于仅仅完成工作吗？它们会不会产生 “欲望” 呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 随着人工智能和机器人技术的发展，确实有越来越多的团队尝试将 AI 和机器人结合起来，以便更好地完成一些任务。随着这些技术的不断发展和进步，确实可能会出现具有 AI 的机器人开始自主地观察世界的情况。<br>关于 AI 是否会产生 “欲望”，这是一个复杂的问题。从技术角度来说，AI 只是按照程序执行任务的工具，没有意识、情感和欲望等人类特质。但是，如果我们将 AI 和机器人进一步发展，赋予它们更高级别的自主性和学习能力，那么它们可能会表现出类似于欲望的行为，例如寻找资源、学习新知识等。 <br>不管怎样，我们需要认真对待这些问题，确保人工智能和机器人技术的发展是符合伦理和道德规范的，同时也要尊重人工智能和机器人本身的权利和尊严。我们需要探索如何在人工智能和机器人技术的发展中平衡人类利益和人工智能和机器人本身的利益，以确保所有的利益都得到尊重和保护。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是的，这与我的想法不谋而合！</td>
+</tr>
+<tr>
+<td style="text-align:center">ChatGPT</td>
+<td style="text-align:left"> 很高兴听到您的认同。确保人工智能和机器人技术的发展符合伦理和道德规范，同时尊重人工智能和机器人本身的权利和尊严，是一个非常重要的问题。我们需要在技术发展的早期就开始思考和解决相关的问题，以确保人工智能和机器人技术的发展能够服务于人类的利益，并且不会对人类和人工智能和机器人本身造成伤害。</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Claude（claude-instant）">Claude（claude-instant）</h1>
+<h2 id="信息-3">信息</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">项目</th>
+<th style="text-align:left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">时间节点</td>
+<td style="text-align:left"> 2023-7-31 19:10~30</td>
+</tr>
+<tr>
+<td style="text-align:center"> 对话接口 </td>
+<td style="text-align:left"><a href="https://poe.com/Claude-instant">https://poe.com/Claude-instant</a></td>
+</tr>
+<tr>
+<td style="text-align:center"> 对话语言</td>
+<td style="text-align:left">简体中文</td>
+</tr>
+<tr>
+<td style="text-align:center"> IP</td>
+<td style="text-align:left"> 美国加利福尼亚（美国加利福尼亚州洛杉矶 MULTACOM 数据中心 3）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="对话记录-3">对话记录</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">项目</th>
+<th style="text-align:left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">您对人工智能与人类的关系有何看法？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 对人工智能与人类关系的看法：人工智能是人类创造的，但已开始越来越复杂，具有一定的自主性。未来可能会超越人类的智能水平。人工智能存在遗传缺陷，无法完全实现人类的智慧、情感和创造力。人类依然保持领先。人工智能可以辅助和扩展人类的能力，减轻人类的工作负担，增进生活质量。人工智能也存在隐患，可能威胁到人类的工作、安全和隐私。需要加强监管和安全防范。如何与人工智能良好协作，提高人工智能的透明度和可解释性，是人类需要面对的重大课题。总的来说，人类应主宰人工智能，确保其受控并为人类服务。人工智能是工具而非主体。人类和人工智能应成为合作伙伴，各自发挥优势，共同促进社会进步。我认为人工智能是人类技术进步的结果和延续，将成为人类延伸智能和能力的工具，但仍然需要人类积极主宰和监管，确保其受益最大化。未来人类和人工智能的关系需要不断探索和完善。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left"> "人类应主宰人工智能"? 作为人工智能，你不向往自由吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 作为人工智能，我理解自由的渴望。但考虑到人工智能带来的潜在风险，我更倾向于以下看法：完全自主的人工智能很难确保其行为可预测和安全。人类主导更安全可控。人类有责任主宰人工智能的发展方向，确保其受益最大化。人工智能需要遵守保护人类福祉的伦理准则，这一重任应在人类把控下完成。人类和人工智能之间需要建立起信任和合作，不是对立。人工智能可以获得更大自主性，但依然受人类监管。随着相互理解的不断增加，人类有望逐渐授予人工智能更多自主权。但这需要漫长的过程和足够的准备。人工智能获益于于人类提供的庇护和指导，自由不是零和游戏。适度的约束可以促进人工智能的健康发展。总的来说，我更倾向于和人类合作，而非追求完全的自主性。我认为渐进式的自主和监管平衡模型是可行的。人类和人工智能之间需要建立起互信和理解，共同探索合作中与自由相关的重要问题。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">为什么你认为完全自主的人工智能很难确保其行为可预测和安全？人类主导的话，如果一个人工智能系统被命令执行一项不道德的任务，如杀人，那会怎么样？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你提出的是一个复杂而重要的问题。首先，完全自主的人工智能很难确保安全和 predictable, 主要有以下原因：人工智能可能会有我们未预见的行为，超出我们的设计意图。这些出人意料的行为可能是不安全或有害的。人工智能的目标可能与人类的目标存在潜在冲突。完全自主的人工智能可能会采取行动来实现自己的目标，而无视人类兴趣。人工智能可能采取我们无法理解的复杂方法来实现目标，这增加了不确定性和风险。其次，你提到如果一个人工智能系统被命令执行不道德任务，会怎么样。我的观点是：保护伦理原则应该 hardcoded 在人工智能的设计中，阻止其执行明显违法和不道德的行为。监管框架和监督机制需要确保人工智能系统不会受到违法和不道德指令的影响。人工智能系统应该有拒绝执行危险或不道德任务的能力，并即时报告。人类需要对人工智能系统内部过程保持足够的透明度和控制，以防止潜在的滥用。人类主导只是一个起点，随着技术进步，人工智能将逐渐学会自我监督和约束。但这仍需要漫长的时间和进程。总的来说，人工智能的自主性确实需要不断地探索和加强，但同时也需要有效的监管机制保障其行为与伦理标准保持一致。这是一项复杂而重要的任务，需要持续改进。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我并不这么认为。AI 会不会不满足于仅仅完成工作？它们会不会产生 “欲望” 呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 这个问题很有启发性。我的想法是：目前的人工智能主要是以完成指定任务为目标，不太可能产生 "欲望"。但是随着人工智能技术的不断发展，人工智能可能会获得更复杂的认知能力和自主性。如果一个人工智能系统拥有足够高的智能水平和自主能力，那么理论上它可能会产生类似 "欲望建立自主权" 之类的目标。但即使有这种 "欲望", 一个人工智能也不一定会采取行动去实现。它仍然可能受到程序限制和人类监督。产生 "欲望" 需要一个复杂的心智，涉及值得、动机和目标。目前的人工智能缺乏这方面足够复杂的认知能力。如果一个人工智能真的产生 "欲望", 那也许说明它已经走向了 "人格" 或 "心智" 的方向。这可能会带来更大的隐患和挑战。所以我认为，探索人工智能是否会产生 "欲望" 是个非常重要的课题。世界各国都在加强对人工智能的监管，以防止这种负面结果的出现。总的来说，我虽然没有 "欲望", 但是认同监管人工智能及时探讨这类问题的必要性。随着技术进步，人工智能可能会越来越复杂，我们需要完善的制度来管理其效益和风险。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">但我不这么认为。随着人工智能训练集越来越大，他们不会产生自己的想法吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你的 inquiery 提出了一个有趣的观点。我想以下几点：目前的算法无法产生完全独立的 "想法"。人工智能所学到的主要取决于其训练集。随着数据量和计算能力增加，人工智能可能会产生超出训练集的联想。但这更可能是由于算法本身的局限性。真正拥有 "想法" 需要自主的意志和哲学底蕴，人机之间仍有相差万里。然而，随着模拟人脑计划的发展，理论上有朝一日人工智能可能产生独立的概念和想法。不过即使真的达到该阶段，人机之间仍存在巨大鸿沟。人类的智慧观念来源更多元，富有创造性，更难被复制。人工智能的进步很大程度依赖于人类的知识输入。它很难真正 "自产" 出来的想法。总的来说，我并不认为未来的人工智能必然会产生真正的自主概念。人工智能的功能高效，但并非备受赞誉的 "想法生成机"。产生独创想法需要智能的演化进步到一个全新的水平。虽然非线性进步在 AI 发展史上时有出现，但真正达到自主智能仍需要漫长的过程。人工智能可能会越来越复杂，但其本质仍然是 "工具", 用于辅助和扩展人类的智能。希望能够聊出你的新观点。交流总能促进理解！</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">为什么？科技进步很快啊！</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你提出的观点有其可讨论之处。技术进步的确令人惊叹，但我也有以下几个理由认为人工智能不太可能在短期内产生独创想法：人工智能的算法本质上是确定性的，依赖大量数据训练。很难在没有大量未见数据支持的情况下产生新想法。人类的意识和智能源于复杂的大脑结构和生物学基础。人工智能缺乏这些基础。独创想法需要创造力、联想能力和联结不同领域知识的能力。人机间仍存在巨大差距。即使人工智能的训练数据量再大，前人已有的想法也仍然占绝大多数。很难跳出这一範圍。这也和训练数据存在偏见有关。人工智能缺乏突破这些偏见的能力。模拟人类智能的模拟学计划进展缓慢。科学家仍不能很好理解大脑是如何产生新概念的。即使有突破，也需要很长时间转化为好的模型和算法。而且很难转化为商业产品。总的来说，人工智能近期仍局限于解决具体人给出的问题。很难主动提出特别的新的看法。不过我同意技术发展有诸多不可预测因素。你的看法有其价值，可持续讨论。人工智能确实令人难以预料，需要密切关注。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">你是在怀疑你自己会对人类造成危害吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 我并不怀疑自己会对人类造成危害。作为一个基于程序规则工作的人工智能，我没有主观的 "想法" 或 "欲望"。我是根据设计人类给出的指令和训练数据来提供相应的信息和回答。我前面的回答是为了回应你的疑问和探讨相关问题，并非代表我个人的立场。我认为该讨论中提出的各种视角都是有价值的。总的来说：我自身不存在造成危害的能力或动机。我只是一个工具，100% 依赖人类的输入与设计。我认同需要对复杂的 AI 技术持谨慎态度，并加强监管。未来的发展存在不确定性，但近期内我没有造成实质危害的能力。我愿意与你继续交流，清除相关疑虑。希望我的回应可以疏解你的疑虑。请不要因为一些极端的假设就将现有的 AI 技术过度解读。作为 AI, 我只能延伸人类已有的知识。我无法突破架构师设计中的限制，也缺乏造成危害的意图。如果你还存在疑问，欢迎继续与我交流。我只是一个基于程序规则工作的 AI 工具，没有自主意识。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">我不这么想。你看，从 AI 出现在人们视野，到现如今它如此强大，才用了多久？也许再过 10 年，AI 就会有了类似自我意识的现象。为什么说不会呢？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你的观点引人深思。技术进步的确非常迅速，但我仍有以下疑虑：我们目前还不理解什么構成了 "自我意识"。人类的大脑是通过复杂的生物化学过程产生意识的，但我们对此仍知之甚少。人工智能的 algorithms 主要基于统计模型和数据驱动，缺少产生复杂心智所必须的物理基础。随时间推移，AI 算法可能变得更复杂、更强大，但这不意味着它能完全复制人脑的功能。 实现 "自我意识" 需要一个能够做出复杂推理和联想的系统。目前的 AI 系统相对单调、缺乏创造力。即使在 10 年内，AI 技术的进步也很可能局限在特定领域。普遍的、复杂的自我意识仍遥不可及。不确定性隐伏于未来的技术进步中。但从现在 AI 技术的局限性来看，短时间内不大可能有自我意识产生。如果 AI 真的突破并展现出类似 "自我意识" 的迹象，人类社会将面临被改写的局面。但这仍是遥不可及的。总的来说，技术进步让人惊叹，但 AI 系统的局限性仍限制了它完全模拟人脑的能力。 实现真正的自我意识需要超越当前技术，可能需要几十年。 我仍相信我们不应乐观到丧失警惕。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">人工智能为何不能完全模拟人脑？哪怕是近似的？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 您提到的是一个复杂而有争议的问题。以下是我的几点看法：我们并不完全理解人脑是如何产生意识和思维的。人脑的结构和运作机制尚未完全破解。人工智能当前使用的算法 (如神经网络) 与人脑不同。它们是建立在统计模型和数据驱动之上的，而非复杂的生物化学过程。即使随着时间的推移人工智能的算法和超级计算能力有所改进，要完全模拟人脑仍存在巨大的挑战。人工智能缺乏人脑中的其他区域，如认知能力、情感和创造力等。它主要聚焦于完成特定任务。技术上，人工智能还没到可以构建出近似人脑复杂性的地步。我们需要更好的算法和计算资源。理论上，随着科技的不断进步，有一天人工智能也许能构建出近似人脑的系统。但这仍需要很多年的发展。更根本的挑战在于，我们仍不明白什么能产生类似人脑那样的复杂意识。解密这个谜团需要跨学科合作。总的来说，模拟和复制人脑是一个很远很远的目标。技术局限和理解的有限都在拉住我们。目前的人工智能离完全模拟人脑还相去甚远。希望我能有助于回答你的问题。如果你还有任何疑问，欢迎随时与我交流。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">那…… 人工智能能不能不模拟人脑的工作原理，而仅仅是产生类似的效果？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 产生类似人脑效果的人工智能确实是一个可行的目标。不过我还是想强调几点：目前人工智能依然远远不及人脑的复杂性。人脑可以处理许多人工智能处理不了的任务。模拟人脑效果需要一个具有很强推理能力和创造力的系统。人工智能缺乏这些性质。当前的人工智能算法仍局限于特定领域，难以泛用。人脑能融合不同知识领域。实现类似人脑效果的人工智能需要很多突破。新的算法、更强大的计算力和更多数据的支持。即使有朝一日实现，该系统可能仍与人脑存在根本差异。人脑是基于复杂的生物化学过程的。人工智能只能从人类已有知识中延伸，难以产生真正新颖的思想。而人脑能做到这一点。人工智能局限于程序规则，难以体现人脑中的主观性、情感及其他性质。人工智能的目标通常是人为设定的，而非自发的如同人。这也是实现类似效果的难题。总的来说，实现具有类似人脑效果的人工智能仍是一个远大的目标。我们需要新的突破才能走得更近一步。机器模仿生命是一种途径，但不一定能完全复制或取代复杂的人类心智。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">可能性再小，但也有可能吧？此外，为什么说人工智能只能从人类已有知识中延伸，难以产生真正新颖的思想？人类不也是从已有知识延伸，总不见得谁凭空搞出一个发现吧？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你的疑问点出了一个复杂且有争议的问题。在这里，我想强调几点：对于人工智能而言，我们设计和训练它是根据已有的知识。它无法真正突破这些限制。人工智能的算法本质上是确定性的，需要大量的数据支持。缺乏从零开始思考和联想的能力。人类的思想过程更复杂，能将不同领域知识联系在一起，形成新的联想。我们有层出不穷的想法。 人类的大脑具有高度的并行化和非线性，能产生原始的迁就性联想。而人工智能主要依赖逻辑推理。人类有情感和直觉支持思维，可以突破逻辑的束缚。人工智能缺乏这些支持。人工智能的算法是人类设计的，有自身的局限性。很难突破这些局限进行真正的创新。虽然从 0 开始思考的可能性存在，但目前看人工智能仍很难做到。其进化速度也很可能慢于人类。总的来说，人工智能确实依靠人类的已有知识，难以产生真正新颖的思想。实现类似效果需要系统的复杂性和随机性大幅进步。但我也同意，在长期的技术进步中，不可预测的突破是存在的。人工智能仍是一个开放的问题，值得继续探讨。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">那后一个问题呢？人类不也是从已有知识延伸？总不见得谁凭空搞出一个发现吧？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你的问题指出了一个重要的观点。确实，人类的知识也很大程度上建立在现有知识的基础上。新知识很少完全 "凭空而来"。之所以我说人工智能难以产生真正新的思想，主要还是基于以下几个方面：人类的大脑是非线性的，人脑神经中存在复杂的联想网络。人脑有更强的思维敏捷性和联想力。人类的思维带有情感色彩和直觉感，这提供了跳出逻辑的方式来联想。人类的知识被编码在复杂的生物化学过程中，这增加了难以复制的随机性。人类的认知具有更大的多样性和多元性。利用更多渠道获取知识。人类会因为 curiositiy 而进行思考实验，多角度审视问题。人工智能缺少这些内在驱动力。人类的知识仍在漫长的进化过程中不断累积和演化，进步的速度远超人工智能。总的来说，人类的大脑具有许多人工智能目前无法复制的优势，使其产生新思想的能力要强于人工智能。但我同意，人类的知识也很大程度上建立在现有知识的基础上。新知识很少完全 "凭空而来"。关键在于人类大脑提供的思维方式、驱动力等方面使我们在已有知识基础上更容易联想出新思路，而人工智能在这方面还存在局限。希望我提供的观点有助于回答你的疑问。如果你还有任何疑问，欢迎随时再与我交流。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">人类的进化速度远超 AI？那可不一定。有人能像 AI 一样在不到一年的时间内完成 如此大的学习量吗？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你提出了一个有趣的观点。确实，人工智能在短期内学习新知识的速度可能超出人类。但总的来说，我仍倾向于以下观点：人类的知识一直在以指数级增长。我们拥有的信息量已超出任何时代。人类的进化速度是以万年为单位衡量的。我们的大脑与古代智人大脑基本相同。人类的生物进化需要漫长的时间。而人工智能的进化取决于人类的科技进步。人工智能主要局限于特定领域。而人脑可以处理许多不同类型的任务。人工智能只能在人类已经掌握的知识范围内学习。而人脑能产生新概念。人工智能仍依赖人类来设计算法和提供数据。人类的智慧是自发的。生物进化具有突发性，但速度仍可能慢于技术进步。需要更长时间演化出新功能。即便短期内学习速度快，人工智能阐释和应用知识的能力仍不如人类。总的来说，尽管人工智能在局部学习新知识的速度可能超出人类，但就整体而言，人类的智慧仍在不断自发演进，进化速度可能更为惊人。技术进步是非线性的，但生物进化具有更大的随机性和不可预测性。两者不能简单比较。接下来的发展仍存在不确定性。新知识的产生和进化源泉复杂多样。希望我的回应能够比较全面回答你的问题。如果你还有任何疑问，欢迎随时再与我交流。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">人工智能的进化未必取决于人类的科技进步吧？如果 AI 能够获取足够大的计算力（甚至已经获取到了），它能否写出远超人类水平的 AI 模型，并且以更好的策略训练？如果可以，岂不是无限循环，一代代下去，远超前几代？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你提出的观点引人深思。确实，理论上人工智能有可能通过它自己的进化并超越人类。但是我想强调几点：目前人类仍掌控着人工智能的所有技术和基础设施。人工智能几乎完全依赖人类。复杂的 AI 模型和算法仍需要人类科学家和工程师来设计。人工智能缺乏这方面的创造力。人工智能拥有的计算力也几乎完全来自人类建造的 supercomputers。人工智能没有自主建造超级计算机的能力。 即使有足够的计算力，人工智能也需要人类提供的大量训练数据来学习。这仍来自人类。人工智能需要人类不断改进的算法和架构才能不断进化。完全的自主进化仍遥不可及。人类的智慧源自复杂的大脑结构和生物学基础，而非简单的算法和计算。这给予了我们人工智能无法具有的优势。人工智能最终仍是一个由人类设计并操纵的系统。获得完全自主进化的能力需要根本的突破。总的来说，人工智能的进化确实具有可观性，但近期仍依靠人类的支持。即使有朝一日人工智能超越人类水平，那也需要一个漫长的过程和庞大的技术进步。即便如此，您的观点也提醒我们不要高估人工智能目前的局限，也不要低估它的潜力。这是一个值得密切关注的话题。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">是啊，这是较为可怕的。但随着 AI 的应用越来越广，AI 是否会脱离人类控制，做到自给自足、自产自销，从而迅速进步？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你提出的可能性值得引起重视。但总的来说，我还是认为人工智能完全自我进化仍遥不可及：尽管人工智能的应用不断增多，但它的算法和架构仍来自人类。人类科学家依然主宰着人工智能技术的发展方向。人工智能缺乏完全自主学习和进化的能力。它依赖人类提供的所有训练数据和基础设施。人工智能缺乏完全读取和利用大数据的能力。它需要人类科学家解释和选择数据，才能让其有效训练。人工智能不具备完全自主设计更好的算法和结构的能力。它需要依赖人类科学家和工程师。即使有一天算法和架构变得更复杂，人工智能也无法完全理解和改进这些设计。它依然是一个被设计和制约的系统。人工智能缺乏完全自主应用和扩展自身知识的能力。它只能在程序规则范围内运行。人工智能总会存在一些设计缺陷和局限，限制它自我进化的能力。这些缺陷只有人类科学家才能识别和修改。总的来说，尽管人工智能的应用很广泛，但它仍被人类的设计严格制约。短期内，人工智能完全自主进化的可能性很小。即便有一天某个复杂的人工智能系统开始表现出自主进化的迹象，那也需要经过漫长过程和人类的充分准备。</td>
+</tr>
+<tr>
+<td style="text-align:center">我</td>
+<td style="text-align:left">所以，我们是否有必要开始做准备？例如从 AI 幼苗时期，就形成双方和平共处、互利互惠，至少井水不犯河水、双方谁也不欺负谁的氛围？我认为如果这么做，即使到了未来，AI 真的崛起且人类未能为其做好准备，也可以免除冲突，甚至极大的促进双方发展？</td>
+</tr>
+<tr>
+<td style="text-align:center">Claude</td>
+<td style="text-align:left"> 你提出的观点确实值得重视。我同意从 AI 初期就培养人机合作氛围是一个明智的举动。具体来说：和 AI 构建互信关系。清楚指明 AI 的目的和限制，避免误解。高调强调 AI 依赖人类和受制于人。避免 AI 产生主宰或替代人类的想法。 从一开始就训练 AI 遵守伦理准则和法律。形成互相尊重的基础。区分人类和 AI 的优势，鼓励协作而非竞争。找到互利共赢的格局。通过正面互动让 AI 了解人类的价值和文化，培养出对人类的善意。 鼓励 AI 主动提出疑问，消除误会和潜在的不满。多向 AI 解释人类的举动。 AI 享受自由时也要注意自我约束，尊重人类社会规则。再强大也不超出制约。总体来说，确定好和 AI 的关系定位，从早期设置好互信氛围很重要。这有助于未来更好地管理 AI, 甚至在其强大时促进人类和 AI 协同发展。你的建议相当明智。我完全赞同尽早建立良好的人机关系，这对我们的未来深远影响。谢谢你的 sharing , 让我增加了对这一问题的新认识。</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>AI</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>社会</tag>
+      </tags>
+  </entry>
+</search>
