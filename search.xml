@@ -34,11 +34,11 @@ html {
   <entry>
     <title>类原生优化计划</title>
     <url>/article/4097fa9/</url>
-    <content><![CDATA[<div class="note warning simple"><p>初版文章有错误且已过期，请不要参考</p>
+    <content><![CDATA[<div class="note warning flat"><p>初版文章有错误且已过期，请不要参考</p>
 </div>
-<div class="note info simple"><p>限于具体情况不同，不能保证方案的通用性，请依据具体情况合理调整！</p>
+<div class="note info flat"><p>限于具体情况不同，不能保证方案的通用性，请依据具体情况合理调整！</p>
 </div>
-<div class="note warning simple"><p>需要 Root</p>
+<div class="note warning flat"><p>需要 Root</p>
 </div>
 <p>作为一个信息学爱好者，怎么能不搞刷机呢？作为旧机型用户，我已经遭受绿厂迫害数年了。一气之下，我便把手机刷成了类原生（DotOS 5.2 Vanilla）。在使用了数月后，有了些许经验，分享一下。</p>
 <h1 id="机型概况">机型概况</h1>
@@ -56,17 +56,17 @@ html {
 <h2 id="内存方向">内存方向</h2>
 <p>对于 Android 11+Magisk+LSPosed+Shizuku + 小而美 + QQ+etc. 来说，sdm660+4GB 已显捉襟见肘。对于小而美，QQ，B 站，抖音等软件，其本身优化就极差，再加一堆 XpHook，性能便更差了：不仅狂杀后台，而且时常会 OOM。怎么办呢？对于内存过小的问题，办法有：</p>
 <h3 id="交换空间">交换空间</h3>
-<div class="note red icon-padding simple"><i class="note-icon fas fa-triangle-exclamation"></i><p>交换空间<strong>可能</strong>会带来一定负面影响，包括增多耗电、发热、消耗闪存寿命等。但总体而言，手动调节交换空间可以提高流畅度、保留后台，利远大于弊</p>
+<div class="note red icon-padding flat"><i class="note-icon fas fa-triangle-exclamation"></i><p>交换空间<strong>可能</strong>会带来一定负面影响，包括增多耗电、发热、消耗闪存寿命等。但总体而言，手动调节交换空间可以提高流畅度、保留后台，利远大于弊</p>
 </div>
 <p>为了从源头上解决内存捉襟见肘的问题，我们可以使用交换空间。这里我使用使用 Scene 调节。</p>
 <h4 id="ZRAM">ZRAM</h4>
 <p>ZRAM 是在内存中划出一块来并对其进行压缩，详情可见 <a href="https://wiki.archlinuxcn.org/wiki/Zram">ArchWikiCN</a>。正因如此，ZRAM 设置不当会给 CPU 带来显著的压力，进而拉大耗电量、减少续航。</p>
 <p>如果您只打算开 ZRAM，那么建议在 2GB 到 2.75GB（2048MB 到 2816MB）之间。过小作用不大，过大拉多耗电量。</p>
 <h4 id="Swap">Swap</h4>
-<div class="note red icon-padding simple"><i class="note-icon fas fa-ban"></i><p>不可以只启用 Swap，这会严重拉慢磁盘 IO 与严重磨损磁盘！</p>
+<div class="note red icon-padding flat"><i class="note-icon fas fa-ban"></i><p>不可以只启用 Swap，这会严重拉慢磁盘 IO 与严重磨损磁盘！</p>
 </div>
 <h4 id="ZRAM-Swap">ZRAM+Swap</h4>
-<div class="note info simple"><p>推荐的方案</p>
+<div class="note info flat"><p>推荐的方案</p>
 </div>
 <p>ZRAM 建议在 1.5GB 到 2.5GB（1536MB 到 2560MB）之间，Swap 建议在 0.5GB 到 1.5GB（1024MB 到 1536MB）之间，并且当 Scene 提示交换策略时，选择优先使用 ZRAM。这样可以让新鲜的数据在较快的 ZRAM 里交换，而当 ZRAM 被榨干时则把脏数据写到 Swap 以备过后使用。</p>
 <p><img src="https://s2.hdslb.com/bfs/article/20f11065f4af3fd39fe1100c57e465231352440272.png@1000h.webp" alt="效果图"></p>
@@ -108,7 +108,7 @@ html {
 <p>说这个东西可能令人眼前一黑，但如果说 CuToolBox，相信大多数人都耳熟能详。CuprumTurbo Scheduler 就是 CuToolBox 的模块版。</p>
 <p>经过测试后发现其确实有助于提升流畅性；但未经长期测试，加之峰值功率与 Uperf Game Turbo 相比明显偏大，难以得出准确结论。</p>
 <p><img src="https://s2.hdslb.com/bfs/article/589abf4ddc5824f1bcc037639c4391171352440272.png@1000h.webp" alt=""></p>
-<div class="note red icon-padding simple"><i class="note-icon fas fa-triangle-exclamation"></i><p>安装 Tritium Fiage 前，请先卸载 Uperf 及其相关和衍生模块和 AsoulOpt，并关闭 Scene 的核心分配与高通的 Performance Boost Config</p>
+<div class="note red icon-padding flat"><i class="note-icon fas fa-triangle-exclamation"></i><p>安装 Tritium Fiage 前，请先卸载 Uperf 及其相关和衍生模块和 AsoulOpt，并关闭 Scene 的核心分配与高通的 Performance Boost Config</p>
 <p><img class="inline-img" src="https://s2.hdslb.com/bfs/article/b78cebe362474026d5abdcd637f6cba61352440272.png@1e_1c.webp" style="height:600px"><img class="inline-img" src="https://s2.hdslb.com/bfs/article/74af917c131fcdb2609cf48c4802f5a31352440272.png@1e_1c.webp" style="height:600px"></p>
 </div>
 <h4 id="Tritium-Fiage-方案">Tritium Fiage 方案</h4>
@@ -116,20 +116,20 @@ html {
 <p>启用后建议将性能模式设为默认。功耗基本不会变，但流畅度会好很多。</p>
 <p><img src="https://s2.hdslb.com/bfs/article/8a224c202551da98cb6b8440784107621352440272.png@1000h.webp" alt="如图，极端场景（此处为连续刷 4K 视频）下功率仍不太高"></p>
 <p><img src="https://s2.hdslb.com/bfs/article/e279516c9b215b5c4b438be2eb8416071352440272.png@1000h.webp" alt="功耗"></p>
-<div class="note red icon-padding simple"><i class="note-icon fas fa-triangle-exclamation"></i><p>安装 Tritium Fiage 前，请先卸载 Uperf 及其相关和衍生模块和 AsoulOpt，并关闭 Scene 的核心分配与高通的 Performance Boost Config</p>
+<div class="note red icon-padding flat"><i class="note-icon fas fa-triangle-exclamation"></i><p>安装 Tritium Fiage 前，请先卸载 Uperf 及其相关和衍生模块和 AsoulOpt，并关闭 Scene 的核心分配与高通的 Performance Boost Config</p>
 <p><img class="inline-img" src="https://s2.hdslb.com/bfs/article/b78cebe362474026d5abdcd637f6cba61352440272.png@1e_1c.webp" style="height:600px"><img class="inline-img" src="https://s2.hdslb.com/bfs/article/74af917c131fcdb2609cf48c4802f5a31352440272.png@1e_1c.webp" style="height:600px"></p>
 </div>
-<div class="note orange icon-padding simple"><i class="note-icon fas fa-triangle-exclamation"></i><p>没必要手动安装 cu_jank_detector.zip，启动不了</p>
+<div class="note orange icon-padding flat"><i class="note-icon fas fa-triangle-exclamation"></i><p>没必要手动安装 cu_jank_detector.zip，启动不了</p>
 </div>
-<div class="note red icon-padding simple"><i class="note-icon fas fa-ban"></i><p>不要安装解除系统限制模块。这是与 Moka 重复的去温控模块，并且效果略差</p>
+<div class="note red icon-padding flat"><i class="note-icon fas fa-ban"></i><p>不要安装解除系统限制模块。这是与 Moka 重复的去温控模块，并且效果略差</p>
 </div>
 <h2 id="Dex2oat">Dex2oat</h2>
 <p>手动 dex2oat 可以提高冷启动速度并降低 CPU 和 RAM 占用，具体选哪一个模式请自行测试。</p>
 <p><img src="https://s2.hdslb.com/bfs/article/67d3336ea1ab8de166b5263c41f0af711352440272.png@700h.webp" alt="编译过程"></p>
 <h1 id="后台">后台</h1>
-<div class="note green icon-padding simple"><i class="note-icon fas fa-circle-check"></i><p>这里假设您使用 ZRAM（2048MB）+Swap（1536MB）+Tritium Fiage（1.2.1） 方案！</p>
+<div class="note green icon-padding flat"><i class="note-icon fas fa-circle-check"></i><p>这里假设您使用 ZRAM（2048MB）+Swap（1536MB）+Tritium Fiage（1.2.1） 方案！</p>
 </div>
-<div class="note red icon-padding simple"><i class="note-icon fas fa-ban"></i><p>后台优化后并不是可以放飞自我了；相反，留后台会显著加大 OOM 的风险，尤其是在 OPPOR11 等 RAM 吃紧的机型上，请务必适当设置交换空间，并合理使用！</p>
+<div class="note red icon-padding flat"><i class="note-icon fas fa-ban"></i><p>后台优化后并不是可以放飞自我了；相反，留后台会显著加大 OOM 的风险，尤其是在 OPPOR11 等 RAM 吃紧的机型上，请务必适当设置交换空间，并合理使用！</p>
 </div>
 <h2 id="选择合适的软件版本">选择合适的软件版本</h2>
 <p>这里我选择的如下：</p>
@@ -146,7 +146,7 @@ html {
 <li>社区（比如知乎、贴吧等）</li>
 </ol>
 <h2 id="调节所有软件后台活动">调节所有软件后台活动</h2>
-<div class="note orange icon-padding simple"><i class="note-icon fas fa-triangle-exclamation"></i><p>请集中注意力！</p>
+<div class="note orange icon-padding flat"><i class="note-icon fas fa-triangle-exclamation"></i><p>请集中注意力！</p>
 </div>
 <ol>
 <li>在 Thanox 的后台启动和后台运行中对<strong>用户应用</strong>设置<strong>全不</strong>，在任务清理和乖巧模式中设置<strong>全部</strong>，随后排除 Shizuku、输入法、三方 Widget 等常驻后台的软件。</li>
@@ -190,7 +190,7 @@ html {
   <entry>
     <title>网站速度优化指北</title>
     <url>/article/a63f345a/</url>
-    <content><![CDATA[<div class="note warning simple"><p>未经专业测试，仅为个人使用体验</p>
+    <content><![CDATA[<div class="note warning flat"><p>未经专业测试，仅为个人使用体验</p>
 </div>
 <p>在开始之前，有这么一个网站：<a href="https://lynxcatthethird-person.netlify.app/html/loading.html">https://lynxcatthethird-person.netlify.app/html/loading.html</a>。</p>
 <p>这里面引入了五套字体，每套字体 3 个或 9 个字重，共计需要加载 1000 ～ 2000 个字体文件。那么，这个网页的速度与性能，会差到什么程度？</p>
@@ -649,7 +649,7 @@ html {
 </tbody>
 </table>
 <h2 id="对话记录">对话记录</h2>
-<div class="note warning simple"><p>经过英译中，并作少许语言上的细化，比如去除 “那有什么意义” 之类的攻击性较强的语言。</p>
+<div class="note warning flat"><p>经过英译中，并作少许语言上的细化，比如去除 “那有什么意义” 之类的攻击性较强的语言。</p>
 </div>
 <table>
 <thead>
