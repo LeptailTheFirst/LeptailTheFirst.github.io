@@ -50,13 +50,13 @@ html {
 <h3 id="懒加载">懒加载</h3>
 <p>在图床速度足够快时，开启它作用并不明显，反而可能阻塞某些资源的加载（让它们卡在 “等待中”）。并且，懒加载会频繁的取消与发起资源的加载，拉长时间。</p>
 <figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">lazyload:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br></pre></td></tr></tbody></table></figure>
-<h1 id="停用加载动画与入场动画">停用加载动画与入场动画</h1>
+<h2 id="调节动画">调节动画</h2>
 <p>很多朋友为了网页美观性往往会添加加载动画，但正如前面所说，只要有一条资源有问题，就会阻塞整个加载动画，致使网页迟迟显示不出有效内容。纵使是非全屏式动画（pace_css），也仿佛在提示用户 “嘿！我还没加载完呢！” 十分影响观感，建议关闭。</p>
 <figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">preloader:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br></pre></td></tr></tbody></table></figure>
 <p>在渲染负载较重的情况下（如引用了很多字体与大图），入场动画会抢占渲染其它内容所需的 CPU 与 GPU，影响渲染初期的效率，在某些低端设备上可能会引起卡顿。但对于页面较为轻量的情况，开启它可以隐藏加载时的闪烁，提高美观性。</p>
 <figure class="highlight yml"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">enter_transitions:</span> <span class="literal">true</span></span><br></pre></td></tr></tbody></table></figure>
 <p>若站点面向全球用户，则可选择 CDN 竞速等策略。具体按可以参见 <a href="https://github.com/EmptyDreams/hexo-swpp">hexo-swpp</a>、 <a href="https://kmar.top/posts/b70ec88f/">Swpp Backends 官方文档</a> 和<a href="https://github.com/lisuid2/hexo1/blob/main/sw-rules.js">一份新版配置文件</a>。</p>
-<h1 id="优化图片">优化图片</h1>
+<h2 id="优化图片">优化图片</h2>
 <p>图片作为媒体的重头戏，在网页上不可或缺。随着图片体积的增大，图片所带来的负担也不容小觑。优化图片的要做的是减小体积，其方法有：</p>
 <ol>
 <li>手动降低分辨率、位深、色彩精度之类</li>
