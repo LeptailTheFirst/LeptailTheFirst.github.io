@@ -59,14 +59,14 @@ cdn: {
 clean: true,
 match: url => [
             // "cdn.staticfile.org",
-            "cdn.staticfile.net",
+            // "cdn.staticfile.net",
             // "cdn.bootcdn.net",
             "jsd.cdn.zzko.cn",
             // "jsd.onmicrosoft.cn",
             "sdk.51.la",
             "www.clarity.ms",
             // "mirrors.sustech.edu.cn",
-            "s4.zstatic.net",
+            // "s4.zstatic.net",
             // "npm.elemecdn.com",
             // "cdn.cbd.int",
             // "cdn.jsdelivr.net",
@@ -77,10 +77,13 @@ match: url => [
 }
 
 let getSpareUrls = srcUrl => {
-    if (srcUrl.startsWith("https://npm.elemecdn.com")) {
+    if (srcUrl.startsWith("https://jsd.cdn.zzko.cn")) {
         return {
             timeout: 3000,
-            list: [srcUrl, `https://fastly.jsdelivr.net/${new URL(srcUrl).pathname}`, `https://cdn.cbd.int/${new URL(srcUrl).pathname}`],
+            list: [
+                srcUrl,
+                `https://cdn.jsdelivr.net${new URL(srcUrl).pathname}`
+            ]
         };
     }
 }
