@@ -53,24 +53,18 @@
 simple: {
 clean: true,
 search: false,
-match: url => (url.host.includes('lynx') || url.host.includes('lctt')) && url.pathname.match(/\.(html|js|css|xml)$/)}
+match: url => (url.host.includes('lynx') || url.host.includes('lctt')) && url.pathname.match(/(\.(js|css|xml|json)|\/)$/)}
 ,
 cdn: {
 clean: true,
 match: url => [
-            // "cdn.staticfile.org",
             // "cdn.staticfile.net",
             // "cdn.bootcdn.net",
             "jsd.cdn.zzko.cn",
             // "jsd.onmicrosoft.cn",
             "sdk.51.la",
             "www.clarity.ms",
-            // "mirrors.sustech.edu.cn",
-            // "s4.zstatic.net",
-            // "npm.elemecdn.com",
-            // "cdn.cbd.int",
-            // "cdn.jsdelivr.net",
-            // "fastly.jsdelivr.net",
+            "s4.zstatic.net",
             "s2.hdslb.com",
             // "fonts.googleapis.com",
         ].includes(url.host) && url.pathname.match(/\.(js|css|woff2|woff|ttf|json|png|jpg|webp)$/)}
