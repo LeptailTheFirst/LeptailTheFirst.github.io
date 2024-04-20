@@ -64,7 +64,7 @@ match: url => [
             // "jsd.onmicrosoft.cn",
             "sdk.51.la",
             "www.clarity.ms",
-            "s4.zstatic.net",
+            // "s4.zstatic.net",
             "s2.hdslb.com",
             // "fonts.googleapis.com",
         ].includes(url.host) && url.pathname.match(/\.(js|css|woff2|woff|ttf|json|png|jpg|webp)$/)}
