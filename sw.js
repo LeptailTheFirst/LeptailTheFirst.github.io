@@ -58,6 +58,7 @@ match: url => (url.host.includes('lynx') || url.host.includes('lctt')) && url.pa
 cdn: {
 clean: true,
 match: url => [
+            "cdn.staticfile.org",
             // "cdn.staticfile.net",
             // "cdn.bootcdn.net",
             "jsd.cdn.zzko.cn",
