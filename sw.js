@@ -53,7 +53,7 @@
 simple: {
 clean: true,
 search: false,
-match: url => (url.host.includes('lynx') || url.host.includes('lctt')) && url.pathname.match(/(\.(js|css|xml|json)|\/)$/)}
+match: url => (url.host.includes('lynx') || url.host.includes('vite')) && url.pathname.match(/(\.(js|css|xml|json)|\/)$/)}
 ,
 cdn: {
 clean: true,
