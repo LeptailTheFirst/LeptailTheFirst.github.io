@@ -53,7 +53,7 @@
 simple: {
 clean: true,
 search: false,
-match: url => (url.host.includes('lynx') || url.host.includes('vite')) && url.pathname.match(/(\.(js|css|xml|json)|\/)$/)}
+match: url => (url.host.includes('lynx') || url.host.includes('lctt')) && url.pathname.match(/(\.(js|css|xml|json)|\/)$/)}
 ,
 cdn: {
 clean: true,
@@ -63,8 +63,8 @@ match: url => [
             // "cdn.bootcdn.net",
             "jsd.cdn.zzko.cn",
             // "jsd.onmicrosoft.cn",
-            "sdk.51.la",
-            "www.clarity.ms",
+            // "sdk.51.la",
+            // "www.clarity.ms",
             // "s4.zstatic.net",
             "s2.hdslb.com",
             // "fonts.googleapis.com",
