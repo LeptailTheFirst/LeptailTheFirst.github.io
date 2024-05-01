@@ -929,7 +929,7 @@ html {
 <h2 id="Tag-Hide">Tag Hide</h2>
 <p>哪个英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案
   </button><span class="hide-content">因为西装裤 (C 装酷)</span></span></p>
-<h2 id="Mermaid">Mermaid</h2>
+<h2 id="Mermaid-5">Mermaid[^5]</h2>
 <div class="mermaid-wrap"><pre class="mermaid-src" hidden="">  flowchart LR
 A[Hard] --&gt;|Text| B(Round)
 B --&gt; C{Decision}
@@ -1069,7 +1069,7 @@ Rel(SystemC, customerA, "Sends e-mails to")
 </li>
 <li id="fn3" class="footnote-item"><p>画作由 TysonTan 绘制，采用 CC-BY-SA 协议授权 <a href="#fnref3" class="footnote-backref">↩︎</a></p>
 </li>
-<li id="fn4" class="footnote-item"><p>图片来自 <a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly ReadMe</a>，采用 CC-BY-NC-SA 协议授权 <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+<li id="fn4" class="footnote-item"><p>代码来自 <a href="https://github.com/mermaid-js/mermaid/blob/develop/README.zh-CN.md">Mermaid ReadMe</a> <a href="#fnref4" class="footnote-backref">↩︎</a></p>
 </li>
 </ol>
 </section>
