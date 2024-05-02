@@ -1084,26 +1084,83 @@ Rel(SystemC, customerA, "Sends e-mails to")
       </tags>
   </entry>
   <entry>
-    <title>类原生优化计划之二 - 流畅、保活与省电</title>
+    <title>旧手机优化计划之一 - 刷机</title>
+    <url>/article/Infinity/</url>
+    <content><![CDATA[<div class="note info flat"><p>限于具体情况不同，不能保证方案的通用性，请依据具体情况合理调整！</p>
+</div>
+<h1 id="机型概况">机型概况</h1>
+<p>机子是 2017 年发布的 OPPO R11，CPU 是骁龙 600aie，运存为 4GB，闪存是严重磨损的 eMMc 64GB。电池是原装的 3000mAh 的（现在只有 2200mAh 了）。</p>
+<p>绿厂只给到 Android 9 ColorOS 6，连暗色模式都没有，根本满足不了我的需求。于是，我决定刷机。</p>
+<p>OPPO R11 目前主要由 CY 团队维护，故绝大多数资源来自 <a href="https://d.cyteam.cn/">CY 团队的下载站</a>。分享链接有密码，请自行加群获取。</p>
+<h1 id="刷机步骤">刷机步骤</h1>
+<h2 id="降级">降级</h2>
+<p>相信决定对 OPPO R11 刷机的同学一定更到了比较新的系统版本吧？由于在 OPPO 对 fastboot 和 OEM 解锁进行了限制，所以我们必须降级至旧版进行解锁 BootLoader 的操作。由于此时手机处于严重受限状态，所以问们只能采用最底层的刷机方式 9008 刷机（这也是售后修手机的方法）。</p>
+<ol>
+<li>打上<a href="https://d.cyteam.cn/d/CY%E4%B8%8E%E6%A9%99%E6%A0%B9%E7%9B%AE%E5%BD%95/%E6%89%8B%E6%9C%BA%E5%88%B7%E6%9C%BA/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%EF%BC%88Software%20Tools%EF%BC%89/%E9%A9%B1%E5%8A%A8%EF%BC%88Drive%EF%BC%89/CYteam-Services-Tools%20For%20Win10.exe">驱动</a></li>
+<li>下载 <a href="https://d.cyteam.cn/d/CY%E4%B8%8E%E6%A9%99%E6%A0%B9%E7%9B%AE%E5%BD%95/%E6%89%8B%E6%9C%BA%E5%88%B7%E6%9C%BA/OPPO/R%26K%20Series/R11/%E5%AE%98%E6%96%B9ROM%EF%BC%88Stock%20ROM%EF%BC%89/%E7%BA%BF%E5%88%B7%EF%BC%88Flash%20Through%209008%EF%BC%89/R11_11_A.01_170529%EF%BC%889008%E7%BA%BF%E5%88%B7%E5%8C%85%EF%BC%8C11%E3%80%8111t%E5%8F%AF%E7%94%A8%EF%BC%89.7z?sign=EjY5LRISMx_UXC7jbayarsYXffcL_IEzOxuSgBCMpto=:0">R11_11_A.01_170529（9008 线刷包，11、11t 可用）.7z</a> 和 <a href="https://d.cyteam.cn/d/CY%E4%B8%8E%E6%A9%99%E6%A0%B9%E7%9B%AE%E5%BD%95/%E6%89%8B%E6%9C%BA%E5%88%B7%E6%9C%BA/OPPO/R%26K%20Series/R11/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%20%EF%BC%88Software%20Tools%EF%BC%89/%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7%20(Flash%20Tool)/R11-MsmDownloadTool.exe?sign=hKnlxjiE602PHN3sgJpqSm_El2EMBhrUt5QAVEyPug8=:0">R11-MsmDownloadTool.exe</a>，选择对应代号（R11 的代号为 16051）；手机关机，同时按下<code>电源键</code> + <code>音量+</code>+ <code>音量-</code> 进入 EDL（9008 模式），连接手机至电脑，按照提示刷入即可。</li>
+<li>A.01，启动！</li>
+</ol>
+<p>保证数据线连接良好，慎防数据线意外松动。除此之外，基本不会出现什么意外。如果出现诸如 “握手失败”“握手超时” 之类的错误，请尝试更换数据线、USB 口，有条件的更换电脑。</p>
+<h2 id="解锁-BootLoader">解锁 BootLoader</h2>
+<ol>
+<li>打开开发者选项<br>打开手机，进入设置，找到 “关于手机” 或 “关于设备” 选项，找到 “版本号” 或 “型号 “一栏，并连续点击数次（通常需要点击 7 次），开发者模式即可成功开启。</li>
+<li>打开 OEM 解锁和 USB 调试开关</li>
+<li>下载 <a href="https://developer.android.google.cn/tools/releases/platform-tools?hl=zh_CN">SDK Platform Tools</a>，并解压到合适的位置</li>
+<li>手机连接电脑，重启到 fastboot（或执行 <code>adb reboot fastboot</code>），然后执行 <code>fastboot oem unlock</code>，终端应当提示 “unlocked”</li>
+<li> 重启，手机应当有一橙色感叹号（<code>&lt; ! &gt;</code>），提示 “数据有危险”，并要求你访问 <code>g.co/ABH</code>。若有，则解锁成功。</li>
+</ol>
+<h2 id="刷入第三方-Rec">刷入第三方 Rec</h2>
+<p>在此，我们需要引入几个定义：</p>
+<ul>
+<li>底层：是指基本的驱动等最重要、最基本的文件，即 “底包”。R11 (s) 系列底包版本号多为 <code>X.nn</code> 或 <code>nnnn</code> 格式。</li>
+<li>系统：指 System 分区，可能同时也指 Vendor 分区</li>
+<li> Boot：指 Boot 分区</li>
+<li> Recovery：指 Recovery 分区</li>
+</ul>
+<ol>
+<li>手机连接电脑，重启到 fastboot（或执行 <code>adb reboot fastboot</code>）</li>
+<li>电脑<a href="https://d.cyteam.cn/%E6%89%8B%E6%9C%BA%E5%88%B7%E6%9C%BA/OPPO/R&amp;K%20Series/R11/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%81%A2%E5%A4%8D%E6%A8%A1%E5%BC%8F%E9%95%9C%E5%83%8F%20(Third%20Party%20Recovery%20Image)">下载合适的 Recovery 镜像</a>，执行 <code>fastboot flash recovery twrp-x.x.x-xxxx.img</code></li>
+</ol>
+<h2 id="刷入第三方系统">刷入第三方系统</h2>
+<ol>
+<li>从<a href="https://d.cyteam.cn/%E6%89%8B%E6%9C%BA%E5%88%B7%E6%9C%BA/OPPO/R&amp;K%20Series/R11/%E7%AC%AC%E4%B8%89%E6%96%B9%E7%B3%BB%E7%BB%9F%E5%88%B7%E6%9C%BA%E5%8C%85%20(Third%20Party%20ROM)">第三方系统刷机包 (Third Party ROM)</a> 内下载喜欢的包</li>
+<li>这些包大多是一体包，直接刷入就好</li>
+</ol>
+<h1 id="参考资料">参考资料</h1>
+<ul>
+<li><a href="https://kernelsu.org/zh_CN/guide/how-to-integrate-for-non-gki.html">如何为非 GKI 内核集成 KernelSU | KernelSU</a></li>
+<li><a href="https://github.com/tiann/KernelSU/discussions/950">[基础教程] 如何编译一个 ARM64 架构的自定义内核・tiann/KernelSU・Discussion #950</a></li>
+<li><a href="https://github.com/tiann/KernelSU/discussions/952">[基础教程 2] 如何使用 AnyKernel 3 打包内核・tiann/KernelSU・Discussion #952</a></li>
+</ul>
+<h1 id="拓展阅读">拓展阅读</h1>
+<ul>
+<li><a href="https://github.com/osm0sis/AnyKernel3">osm0sis/AnyKernel3: AnyKernel, Evolved</a></li>
+<li><a href="https://source.android.com/docs/core/architecture/bootloader/dtb-images?hl=zh-cn">DTB 映像 &nbsp;|&nbsp; Android 开源项目 &nbsp;|&nbsp; Android Open Source Project</a></li>
+</ul>
+<h1 id="鸣谢">鸣谢</h1>
+<ul>
+<li><a href="https://github.com/Wenhao2130">Wenhao2130</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>科学与技术</category>
+        <category>计算机</category>
+        <category>刷机</category>
+      </categories>
+      <tags>
+        <tag>刷机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>旧手机优化计划之二 - 流畅、保活与省电</title>
     <url>/article/4097fa9/</url>
     <content><![CDATA[<div class="note warning flat"><p>初版文章有错误且已过期，请不要参考</p>
 </div>
 <div class="note info flat"><p>限于具体情况不同，不能保证方案的通用性，请依据具体情况合理调整！</p>
 </div>
-<div class="note warning flat"><p>需要 Root</p>
+<div class="note warning flat"><p>需要 Root，方法以及机型基本信息请参阅 <a href="../78e75162/">旧手机优化计划之一 - 刷机</a></p>
 </div>
 <p>作为一个信息学爱好者，怎么能不搞刷机呢？作为旧机型用户，我已经遭受绿厂迫害数年了。一气之下，我便把手机刷成了类原生（DotOS 5.2 Vanilla）。在使用了数月后，有了些许经验，分享一下。</p>
-<h1 id="机型概况">机型概况</h1>
-<p>机子是 2017 年发布的 OPPO R11，CPU 是骁龙 600aie，运存 4GB，闪存 64GB（实际可用 58GB）。电池是原装的 3000mAh 的（现在只有 2200mAh 了 TAT）</p>
-<h1 id="系统概况">系统概况</h1>
-<p>系统用的 R11_11_ROM_dotOS5.2_Vanilla_20230925_b3642af1.zip，Android 版本 11，内核 4.4.153-perf+，内部版本 RD2A.211001.002，基带 Q_V1_P14。带有 Kitsune Mask Canary，LSPosed CI。</p>
-<h1 id="易用性">易用性</h1>
-<p>咱是国内用户，自然用不惯，需要进行一定设置.</p>
-<h2 id="全面屏手势">全面屏手势</h2>
-<p>对于某些人来说，全面屏手势是日常不可或缺的功能，但……DotOS 没有！对此，只能用三方软件 Gesture 解决。</p>
-<p>注：对于其性能差的现象，请到软件设置里授予 Root 并关闭前台监听即可</p>
-<h2 id="其它">其它</h2>
-<p>对于机友来说，免核心降级啊，模块之类在此不多赘言，适合自己的，才是最好的！</p>
 <h1 id="流畅度">流畅度</h1>
 <h2 id="内存方向">内存方向</h2>
 <p>对于 Android 11+Magisk+LSPosed+Shizuku + 小而美 + QQ+etc. 来说，sdm660+4GB 已显捉襟见肘。对于小而美，QQ，B 站，抖音等软件，其本身优化就极差，再加一堆 XpHook，性能便更差了：不仅狂杀后台，而且时常会 OOM。怎么办呢？对于内存过小的问题，办法有：</p>
