@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             caches.match(location.href).then(res => {
                 if (res)
                     res.json().then(json => {
-                        utils && utils.snackbarShow(`已刷新缓存，更新为${json.global + '.' + json.local}版本最新内容`, false, 2000)
+                        utils && utils.snackbarShow(`已刷新缓存，更新为${json.global + '.' + json.local}版本最新内容`, false, 2000);
                     });
                 else
                     console.info('未找到缓存');
