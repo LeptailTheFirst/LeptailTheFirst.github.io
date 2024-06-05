@@ -111,7 +111,7 @@ match: url => [
             "cdn.staticfile.org",
             "cdn.staticfile.net",
             // "cdn.bootcdn.net",
-            "jsd.cdn.zzko.cn",
+            "cdn.jsdmirror.com",
             // "jsd.onmicrosoft.cn",
             // "sdk.51.la",
             // "www.clarity.ms",
