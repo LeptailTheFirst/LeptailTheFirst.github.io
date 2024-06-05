@@ -118,6 +118,7 @@ match: url => [
             // "s4.zstatic.net",
             "s2.hdslb.com",
             "fonts.googleapis.com",
+            "fonts.gstatic.com",
         ].includes(url.host) && url.pathname.match(/\.(js|css|woff2|woff|ttf|json|png|jpg|webp)$/)}
 }
 
