@@ -110,15 +110,10 @@ clean: true,
 match: url => [
             "cdn.staticfile.org",
             "cdn.staticfile.net",
-            // "cdn.bootcdn.net",
-            // "cdn.jsdmirror.com",
-            // "jsd.onmicrosoft.cn",
-            // "sdk.51.la",
-            // "www.clarity.ms",
-            "s4.zstatic.net",
-            "s2.hdslb.com",
+            "cdn.jsdmirror.com",
             "fonts.googleapis.com",
             "fonts.gstatic.com",
+            "s2.hdslb.com",
         ].includes(url.host) && url.pathname.match(/\.(js|css|woff2|woff|ttf|json|png|jpg|webp)$/)}
 }
 
